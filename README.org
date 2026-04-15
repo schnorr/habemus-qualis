@@ -170,5 +170,5 @@ Colunas:
 * Consulta Interativa
 
 Uma interface de consulta interativa (página estática) está disponível
-em [[./docs/index.html][docs/index.html]] e pode ser acessada via GitHub Pages. Ela permite
+em [[https://schnorr.github.io/habemus-qualis/][Habemus Qualis]] e pode ser acessada via GitHub Pages. Ela permite
 pesquisar conferências e periódicos por nome, sigla, ISSN ou nível.
