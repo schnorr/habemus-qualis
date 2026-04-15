@@ -1,0 +1,1126 @@
+CE,sigla,top,edicoes,nome,h5,NIVEL,sigla2
+CE-CCI,3DIC,Eventos da Área,NA,IEEE International 3D Systems Integration Conference,NA,A8,3DIC
+CE-GRAPI,3DV,Eventos da Área,NA,International Conference on 3D Vision,56,A1,3DV
+CE-LP,<Programming>,Eventos da Área,NA,"International Conference on the Art, Science, and Engineering of Programming",NA,A8,<PROGRAMMING>
+CE-IC,AAAI,Top 20,NA,AAAI Conference on Artificial Intelligence,232,A1,AAAI
+CE-IHC,AAATE,Eventos da Área,NA,Association for the Advancement of Assistive Technology in Europe Conference,NA,A8,AAATE
+CE-IA,AAMAS,Top 10,NA,International Conference on Autonomous Agents and Multiagent Systems,55,A1,AAMAS
+CE-IHC,ABCIBER,Eventos da Área,NA,Congresso Brasileiro de Pesquisadores em Cibercultura,NA,A8,ABCIBER
+CE-MF,ABZ,Top 20,NA,"International ABZ Conference ASM, Alloy, B, TLA, VDM, Z",0,NA,ABZ
+CE-R,ACC,Eventos da Área,NA,American Control Conference,50,A1,ACC
+CE-GRAPI,ACCV,Eventos da Área,NA,Asian Conference on Computer Vision,60,A1,ACCV
+CE-IHC,ACE,Eventos da Área,NA,International Conference on Advances in Computer Entertainment Technology,NA,A8,ACE
+CE-RV,ACE-X,Eventos da Área,NA,International Conference on Advanced Computational Engineering and Experimenting,NA,A8,ACE-X
+CE-IHC,ACII,Eventos da Área,NA,International Conference on Affective Computing and Intelligent Interaction,NA,A8,ACII
+CE-R,ACIRS,Eventos da Área,NA,Asia-Pacific Conference on Intelligent Robot Systems,9,A6,ACIRS
+CE-SI,ACIS,Eventos da Área,NA,Australasian Conference on Information Systems,17,A4,ACIS
+CE-SEG,ACISP,Eventos da Área,NA,Australasian Conference on Information Security and Privacy,18,A4,ACISP
+CE-GRAPI,ACIVS,Eventos da Área,NA,Advanced Concepts for Intelligent Vision Systems,NA,A8,ACIVS
+CE-PLN,ACL,Top 10,NA,Annual Meeting of the Association for Computational Linguistics,236,A1,ACL
+CE-IHC,ACM CC,Eventos da Área,NA,Creativity & Cognition,26,A2,ACM CC
+CE-IHC,ACM CHI PLAY,Top 20,NA,Annual Symposium on Computer-Human Interaction in Play,NA,A6,ACM CHI PLAY
+CE-WEBMEDIA,ACM DocEng,Eventos da Área,NA,ACM Symposium on Document Engineering,NA,A8,ACM DOCENG
+CE-IHC,ACM HT,Eventos da Área,NA,ACM Hypertext Conference / Hipertext,NA,A8,ACM HT
+CE-WEBMEDIA,ACM IMX,Top 10,NA,ACM International Conference on Interactive Media Experiences,20,A3,ACM IMX
+CE-GRAPI,ACM Multimedia,Eventos da Área,NA,ACM International Conference on Multimedia,NA,A8,ACM MULTIMEDIA
+CE-IA,ACM-CIKM,Eventos da Área,NA,ACM International Conference on Information and Knowledge Management,NA,A8,ACM-CIKM
+CE-RV,ACM-MM,Eventos da Área,NA,ACM International Conference on Multimedia,NA,A8,ACM-MM
+CE-RESD,ACMSOCC,Eventos da Área,NA,ACM Symposium on Cloud Computing,39,A1,ACMSOCC
+CE-SEG,ACNS,Top 20,NA,Applied Cryptography and Network Security,28,A2,ACNS
+CE-R,ACRA,Eventos da Área,NA,Australasian Conference on Robotics and Automation,NA,A8,ACRA
+CE-SEG,ACSAC,Top 20,NA,Computer Security Applications Conference,40,A1,ACSAC
+CE-BD,ADBIS,Top 20,NA,East European Conference on Advances in Databases and Information Systems,16,A3,ADBIS
+CE-RESD,ADHOC-NOW,Eventos da Área,NA,International Conference on Ad-Hoc Networks and Wireless,NA,A8,ADHOC-NOW
+CE-SI,AE-SBSI,Top 20,NA,Anais Estendidos do Simpósio Brasileiro de Sistemas de Informação,NA,A6,AE-SBSI
+CE-CM,AES,Top 20,NA,International Convention of the Audio Engineering Society,NA,A6,AES
+CE-CM,AES Brasil,Eventos da Área,NA,Congresso de Engenharia de Áudio da Audio Engineering Society Brasil.,NA,A8,AES BRASIL
+CE-CM,AES-ICSA,Top 20,NA,AES International Conference on Semantic Audio,NA,A6,AES-ICSA
+CE-Geoinformática,AGILEGIS,Top 10,NA,Conference on Geographic Information Science,NA,A5,AGILEGIS
+CE-RV,AH,Top 10,NA,Augmented Human International Conference,20,A3,AH
+CE-SI,AICT,Eventos da Área,NA,International Conference on Application of Information and Communication Technologies,17,A4,AICT
+CE-IE,AIED,Top 10,NA,International Conference on Artificial Intelligence in Education,38,A1,AIED
+CE-IA,AIIDE,Top 20,NA,AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment,23,A3,AIIDE
+CE-R,AIM,Eventos da Área,NA,IEEE/ASME International Conference on Advanced Intelligent Mechatronics,20,A3,AIM
+CE-CAS,AIME,Top 20,NA,Conference on Artificial Intelligence in Medicine,19,A3,AIME
+GI-L,AIML,TOP 20,NA,Advances in Modal Logic,NA,A6,AIML
+CE-TF,AINA,Eventos da Área,NA,IEEE International Conference on Advanced Information Networking and Applications,23,A3,AINA
+CE-IA,AISTATS,Top 20,NA,International Conference on Artificial Intelligence and Statistics,101,A1,AISTATS
+CE-ES,AIware,Eventos da Área,NA,ACM International Conference on AI-powered Software,NA,A8,AIWARE
+CE-RV,AIxVR,Top 20,NA,IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality,9,A5,AIXVR
+CE-ACO,ALENEX,Eventos da Área,NA,SIAM Symposium on Algorithm Engineering and Experiments,NA,A8,ALENEX
+CE-ACO,ALIO/EURO,Eventos da Área,NA,Joint ALIO/EURO International Conference on Applied Combinatorial Optimization,NA,A8,ALIO/EURO
+CE-RESD,ALLERTON,Eventos da Área,NA,"Allerton Conference on Communication, Control, and Computing",32,A2,ALLERTON
+CE-SI,AMCIS,Top 10,NA,Americas Conference on Information Systems,32,A2,AMCIS
+CE-Geoinformática,AMD,Eventos da Área,NA,Workshop on Analysis of Movement Data,NA,A8,AMD
+CE-CAS,AMIA,Top 10,NA,Annual Symposium of the American Medical Informatics Association,35,A1,AMIA
+CE-BD,AMW,Eventos da Área,NA,Alberto Mendelzon International Workshop on Foundations of Data Management,0,NA,AMW
+CE-ACO,ANALCO,Eventos da Área,NA,Workshop on Analytic Algorithmics and Combinatorics,NA,A8,ANALCO
+CE-RESD,ANCS,Eventos da Área,NA,ACM/IEEE Symposium on Architectures for Networking and Communications Systems,NA,A8,ANCS
+CE-CM,ANPPOM,Top 20,NA,Congresso da Associação Nacional de Pesquisa e Pós-Graduação em Música,NA,A6,ANPPOM
+CE-CCI,APCCAS,Eventos da Área,NA,IEEE Asia Pacific Conference on Circuits and Systems,16,A4,APCCAS
+CE-LP,APLAS,Eventos da Área,NA,Asian Symposium on Programming Languages and Systems,13,A5,APLAS
+CE-RESD,APNOMS,Eventos da Área,NA,Asia-Pacific Network Operations and Management Symposium,NA,A8,APNOMS
+CE-ACO,APPROX-RANDOM,Top 20,NA,International Conference on Approximation Algorithms for Combinatorial Optimization Problems,19,A3,APPROX-RANDOM
+CE-BD,APWEB,Eventos da Área,NA,Asia-Pacific Web Conference,14,A5,APWEB
+CE-CCI,ARC,Eventos da Área,NA,International Symposium on Applied Reconfigurable Computing,15,A4,ARC
+CE-ACPAD,ARCS,Eventos da Área,NA,International Conference on Architecture of Computing Systems,11,A6,ARCS
+CE-SEG,ARES,Top 20,NA,"International Conference on Availability, Reliability and Security",35,A1,ARES
+CE-Geoinformática,ARIC,Eventos da Área,NA,International Workshop on Intelligent and Resilient Cities,NA,A8,ARIC
+CE-R,ARSO,Eventos da Área,NA,IEEE Workshop on Advanced Robotics and its Social Impacts,0,NA,ARSO
+CE-ACPAD,ASAP,Eventos da Área,NA,"IEEE International Conference on Application-specific Systems, Architectures and Processors",20,A3,ASAP
+CE-ES,ASE,Top 10,NA,IEEE/ACM International Conference on Automated Software Engineering,57,A1,ASE
+CE-SEG,ASIACCS,Top 10,NA,"ACM ASIA Symposium on Information, Computer and Communications Security",39,A1,ASIACCS
+CE-SEG,ASIACRYPT,Top 10,NA,Annual International Conference on the Theory and Applications of Cryptology and Information Security,53,A1,ASIACRYPT
+CE-SEG,ASID,Eventos da Área,NA,"International Conference on Anti-counterfeiting, Security, and Identification in Communication",11,A6,ASID
+CE-WEBMEDIA,ASMS,Eventos da Área,NA,Advanced Satellite Multimedia Systems Conference,0,NA,ASMS
+CE-SI,ASONAM,Eventos da Área,NA,IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining,36,A1,ASONAM
+CE-CCI,ASP-DAC,Top 10,NA,Asia and South Pacific Design Automation Conference,38,A1,ASP-DAC
+CE-LP,ASPLOS,Top 20,NA,International Conference on Architectural Support for Programming Languages and Operating Systems,77,A1,ASPLOS
+CE-RV,ASPRS,Eventos da Área,NA,Annual Conference and International Lidar Mapping Forum,NA,A8,ASPRS
+CE-ES,AST,Eventos da Área,NA,IEEE/ACM International Workshop on Automation of Software Testing,NA,A8,AST
+CE-CCI,ASYNC,Top 20,NA,IEEE International Symposium on Asynchronous Circuits and Systems,NA,A6,ASYNC
+CE-RESD,ATC,Eventos da Área,NA,USENIX Annual Technical Conference,59,A1,ATC
+CE-CM,AUDIOMOSTLY,Top 20,NA,Audio Mostly Conference,NA,A6,AUDIOMOSTLY
+CE-RV,AVI,Top 20,NA,International Working Conference on Advanced Visual Interfaces,20,A3,AVI
+CE-GRAPI,AVSS,Eventos da Área,NA,IEEE International Conference on Advanced Video and Signal Based Surveillance,31,A2,AVSS
+CE-BioComp,AlCoB,Top 20,NA,International Conference on Algorithms for Computational Biology,NA,A6,ALCOB
+CE-ACO,AofA,Eventos da Área,NA,"International Conference on Probabilistic, Combinatorial, and Asymptotic Methods in the Analysis of Algorithms",NA,A8,AOFA
+CE-CAS,BCB,Top 10,NA,"ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics",28,A2,BCB
+CE-IHC,BCS-HCI,Eventos da Área,NA,Conference of the British Computer Society Human Computer Interaction Specialist Group,NA,A8,BCS-HCI
+CE-BD,BDCLOUD,Eventos da Área,NA,International Conference on Big Data and Cloud Computing,7,A7,BDCLOUD
+CE-SC,BESC,Eventos da Área,NA,"International Conference on Behavior, Economic and Social Computing",NA,A8,BESC
+CE-CAS,BHI,Top 10,NA,International Conference on Biomedical and Health Informatics,NA,A5,BHI
+CE-BioComp,BIATA,Top 20,NA,Bioinformatics: from Algorithms to Applications,NA,A6,BIATA
+CE-BioComp,BIBE,Top 10,NA,IEEE International Conference on BioInformatics and BioEngineering,NA,A5,BIBE
+CE-BioComp,BIBM,Top 10,NA,IEEE International Conference on Bioinformatics and Biomedicine,33,A2,BIBM
+CE-BD,BIGDATASERVICE,Eventos da Área,NA,IEEE International Conference on Big Data Computing Service and Applications,18,A4,BIGDATASERVICE
+CE-GRAPI,BIGMM,Eventos da Área,NA,IEEE International Conference on Multimedia Big Data,22,A3,BIGMM
+CE-SI,BIS,Eventos da Área,NA,International Conference on Business Information Systems,17,A4,BIS
+CE-WEBMEDIA,BMSB,Eventos da Área,NA,IEEE International Symposium on Broadband Multimedia Systems and Broadcasting,17,A4,BMSB
+CE-GRAPI,BMVC,Eventos da Área,NA,British Machine Vision Conference,77,A1,BMVC
+CE-SI,BPM,Top 10,NA,International Conference on Business Process Management,33,A2,BPM
+CE-SI,BPMS2,Eventos da Área,NA,Workshop on Social and Human Aspects of Business Process Management,NA,A8,BPMS2
+CE-IA,BRACIS,Top 10,12,Brazilian Conference on Intelligent Systems,18,A3,BRACIS
+CE-R,BRAHUR*,Eventos da Área,NA,Brazilian Humanoid Robot Workshop,NA,A8,BRAHUR*
+CE-R,BRASERO*,Eventos da Área,NA,Brazilian Workshop on Service Robotics,NA,A8,BRASERO*
+CE-BioComp,BSB,Top 20,16,Brazilian Symposium on Bioinformatics,NA,A5,BSB
+CE-CAS,BSN,Top 20,NA,IEEE-EMBS International Conference on Wearable and Implantable Body Sensor Networks,NA,A6,BSN
+CE-GRAPI,BTAS,Eventos da Área,NA,"IEEE International Conference on Biometrics: Theory, Applications, and Systems",34,A2,BTAS
+CE-BD,BigDataSE,Eventos da Área,NA,IEEE International Conference On Big Data Science And Engineering,NA,A8,BIGDATASE
+CE-Geoinformática,BigSpatial,Eventos da Área,NA,ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data,NA,A8,BIGSPATIAL
+CE-R,BioRob*,Top 20,NA,IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics,NA,A6,BIOROB*
+CE-ES,BotSE,Eventos da Área,NA,International Workshop on Bots in Software Engineering,NA,A8,BOTSE
+CE-BD,BreSci,Eventos da Área,17,Brazilian e-Science Workshop,NA,A5,BRESCI
+CE-SC,C&T,Top 10,NA,International Conference on Communities and Technologies,NA,A5,C&T
+CE-MF,CADE/IJCAR,Top 20,NA,International Conference on Automated Deduction,NA,A6,CADE/IJCAR
+CE-ES,CAIN,Eventos da Área,NA,International Conference on AI Engineering – Software Engineering for AI,NA,A8,CAIN
+CE-GRAPI,CAIP,Top 20,NA,International Conference on Computer Analysis of Images and Patterns,16,A3,CAIP
+CE-ACO,CALDAM,Eventos da Área,NA,International Conference on Algorithms and Discrete Applied Mathematics,13,A5,CALDAM
+CE-RESD,CAMAD,Eventos da Área,NA,IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks,25,A2,CAMAD
+CE-SEG,CANS,Eventos da Área,NA,International Conference on Cryptology and Network Security,17,A4,CANS
+CE-JOGOS,CASA,Top 20,NA,Conference on Computer Animation and Social Agents,NA,A6,CASA
+CE-R,CASE,Top 10,NA,IEEE Conference on Automation Science and Engineering,30,A2,CASE
+CE-ACPAD,CASES,Eventos da Área,NA,"International Conference on Compilers, Architecture, and Synthesis for Embedded Systems",0,NA,CASES
+CE-IE,CATE,Eventos da Área,NA,Computers and Advanced Technology in Education,NA,A8,CATE
+CE-MF,CAV,Top 10,NA,International Conference on Computer Aided Verification,44,A1,CAV
+CE-RV,CBA,Eventos da Área,NA,Congresso Brasileiro de Automática,8,A7,CBA
+CE-R,CBA*,Eventos da Área,NA,Congresso Brasileiro de Automática,NA,A8,CBA*
+CE-RV,CBEB,Eventos da Área,NA,Congresso Brasileiro de Engenharia Biomédica,NA,A8,CBEB
+CE-SI,CBI,Top 20,NA,IEEE Conference on Business Informatics,24,A3,CBI
+CE-IA,CBIC,Eventos da Área,NA,Congresso Brasileiro de Inteligência Computacional,NA,A8,CBIC
+CE-CAS,CBIS,Eventos da Área,NA,Congresso Brasileiro de Informática em Saúde,NA,A8,CBIS
+CE-GRAPI,CBMI,Eventos da Área,NA,International Workshop on Content-Based Multimedia Indexing,16,A4,CBMI
+CE-CAS,CBMS,Top 10,NA,International Symposium on Computer-Based Medical Systems,25,A2,CBMS
+CE-R,CBS,Eventos da Área,NA,IEEE International Conference on Cyborg and Bionic Systems,11,A6,CBS
+CE-ES,CBSoft,Eventos da Área,NA,Brazilian Conference on Software: Theory and Practice,NA,A8,CBSOFT
+CE-CAS,CBTMS,Eventos da Área,NA,Congresso Brasileiro de Telemedicina e Telesaúde,NA,A8,CBTMS
+CE-LP,CC,Top 10,NA,International Conference on Compiler Construction,NA,A5,CC
+CE-ACO,CCC,Top 20,NA,IEEE Conference on Computational Complexity,22,A3,CCC
+CE-RESD,CCNC,Eventos da Área,NA,Annual IEEE Consumer Communications & Networking Conference,34,A2,CCNC
+CE-SEG,CCS,Top 10,NA,ACM Symposium on Computer and Communications Security,98,A1,CCS
+CE-Geoinformática,CCSI,Eventos da Área,NA,Workshop on Core Computations on Spatial Information,NA,A8,CCSI
+CE-R,CDC,Eventos da Área,NA,IEEE Conference on Decision and Control,49,A1,CDC
+CE-SC,CDVE,Top 20,NA,"International Conference on Cooperative Design, Visualization, and Engineering",NA,A6,CDVE
+CE-IC,CEC,Top 10,NA,IEEE Congress on Evolutionary Computation,94,A1,CEC
+CE-SI,CEDEM,Eventos da Área,NA,International Conference on eDemocracy & eGovernment (ICEDEG),NA,A8,CEDEM
+CE-IE,CELDA,Eventos da Área,NA,Cognition and Exploratory Learning in Digital Age,NA,A8,CELDA
+CE-SI,CENTERIS,Eventos da Área,NA,Conference on ENTERprise Information Systems,NA,A8,CENTERIS
+CE-GRAPI,CGI,Top 20,NA,Computer Graphics International Conference,11,A5,CGI
+CE-LP,CGO,Top 10,NA,International Symposium on Code Generation and Optimization,26,A2,CGO
+CE-GRAPI,CGVCVIP,Eventos da Área,NA,"International Conference on Computer Graphics, Visualization, Computer Vision and Image Processing",NA,A8,CGVCVIP
+CE-SC,CHASE,Top 20,NA,International Workshop on Cooperative and Human Aspects of Software Engineering,NA,A6,CHASE
+CE-SEG,CHES,Eventos da Área,NA,Conference on Cryptographic Hardware and Embedded Systems,NA,A8,CHES
+CE-IHC,CHI,Top 10,NA,ACM SIGKDD Conference on Knowledge Discovery and Data Mining,NA,A5,CHI
+CE-BD,CHIIR,Eventos da Área,NA,Conference on Human Information Interaction and Retrieval,29,A2,CHIIR
+CE-JOGOS,CHIPlay,Top 10,NA,ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play,34,A2,CHIPLAY
+CE-ACO,CIAC,Eventos da Área,NA,International Conference on Algorithms and Complexity,0,NA,CIAC
+CE-GRAPI,CIARP,Top 20,NA,Iberoamerican Congress on Pattern Recognition,13,A4,CIARP
+CE-BioComp,CIBCB,Top 10,NA,IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology,14,A3,CIBCB
+CE-SC,CIC,Top 20,NA,International Conference on Collaboration and Internet Computing,NA,A6,CIC
+CE-CCI,CICC,Eventos da Área,NA,IEEE Custom Integrated Circuits Conference,30,A2,CICC
+CE-IHC,CIDI,Eventos da Área,NA,Congresso Internacional de Design da Informação,NA,A8,CIDI
+CE-BD,CIDM,Eventos da Área,NA,Symposium on Computational Intelligence and Data Mining,0,NA,CIDM
+CE-BD,CIDR,Top 10,NA,Biennial Conference on Innovative Data Systems Research,36,A1,CIDR
+CE-IA,CIG,Eventos da Área,NA,IEEE Conference on Computational Intelligence and Games,31,A2,CIG
+CE-BD,CIKM,Top 10,NA,ACM International Conference on Information and Knowledge Management,81,A1,CIKM
+CE-RV,CILAMCE,Eventos da Área,NA,Iberian Latin American Congress on Computational Methods,8,A7,CILAMCE
+CE-RV,CIMENICS,Eventos da Área,NA,International Congress on Numerical Methods in Engineering and Applied Sciences,NA,A8,CIMENICS
+CE-SI,CISIM,Eventos da Área,NA,International Conference on Computer Information Systems and Industrial Management,NA,A8,CISIM
+CE-SI,CISTI,Eventos da Área,NA,Iberian Conference on Information Systems and Technologies,24,A3,CISTI
+CE-SI,CIT,Eventos da Área,NA,IEEE International Conference on Computer and Information Technology,NA,A8,CIT
+CE-SI,CITS,Eventos da Área,NA,"International Conference on Computer, Information, and Telecommunication Systems",15,A4,CITS
+CE-ES,CIbSE,Top 20,NA,Conferencia Iberoamericana de Software Engineering,11,A5,CIBSE
+CE-PLN,CL,Top 20,NA,Corpus Linguistics Conference,NA,A6,CL
+CE-ACO,CLAIO,Eventos da Área,NA,Latin-Ibero-American Conference on Operations Research,NA,A8,CLAIO
+CE-PLN,CLEF,Eventos da Área,NA,Conference and Labs of the Evaluation Forum,NA,A8,CLEF
+CE-ES,CLEI,Eventos da Área,NA,Conferencia Latinoamericana de Informática,12,A5,CLEI
+CE-IHC,CLIHC,Eventos da Área,NA,Latin American Conference on Human Computer Interaction,7,A7,CLIHC
+CE-BD,CLOSER,Top 20,NA,International Conference on Cloud Computing and Services Science,19,A3,CLOSER
+CE-SI,CLOUD,Eventos da Área,NA,IEEE International Conference on Cloud Computing,34,A2,CLOUD
+CE-SI,CLOUDTECH,Eventos da Área,NA,International Conference on Cloud Computing Technologies and Applications,NA,A8,CLOUDTECH
+CE-ACPAD,CLUSTER,Eventos da Área,NA,IEEE International Conference on Cluster Computing,24,A3,CLUSTER
+CE-CAS,CMBBE,Eventos da Área,NA,International Symposium on Computer Methods in Biomechanics and Biomedical Engineering,NA,A8,CMBBE
+CE-CM,CMMR,Top 10,NA,International Symposium on Computer Music Multidisciplinary Research,NA,A5,CMMR
+CE-RV,CMN,Eventos da Área,NA,Congress on Numerical Methods in Engineering,NA,A8,CMN
+CE-ACO,CNMAC,Eventos da Área,NA,Congresso Nacional de Matemática Aplicada e Computacional,NA,A8,CNMAC
+CE-SEG,CNS,Eventos da Área,NA,IEEE Conference on Communications and Network Security,26,A2,CNS
+CE-RESD,CNSM,Eventos da Área,NA,International Conference on Network and Service Management,22,A3,CNSM
+CE-ACO,COCOA,Eventos da Área,NA,International Conference on Combinatorial Optimization and Applications,9,A6,COCOA
+CE-ACO,COCOON,Eventos da Área,NA,International Computing and Combinatorics Conference,12,A5,COCOON
+CE-SEG,CODASPY,Eventos da Área,NA,ACM Conference on Data and Application Security and Privacy,28,A2,CODASPY
+CE-CCI,CODES+ISSS,Eventos da Área,NA,IEEE/ACM/IFIP International Conference on Hardware/Software Codesign and System Synthesis,NA,A8,CODES+ISSS
+CE-SI,COGSCI,Eventos da Área,NA,Annual Meeting of the Cognitive Science Society,36,A1,COGSCI
+CE-PLN,COLING,Top 10,NA,International Conference on Computational Linguistics,81,A1,COLING
+CE-IA,COLT,Top 20,NA,Conference on Learning Theory,74,A1,COLT
+CE-IHC,COMPSAC,Eventos da Área,NA,IEEE Computer Software and Applications Conference,32,A2,COMPSAC
+CE-RESD,COMSNETS,Eventos da Área,NA,International Conference on Communication Systems & NetworkS,NA,A8,COMSNETS
+CE-MF,CONCUR,Top 20,NA,International Conference on Concurrency Theory,19,A3,CONCUR
+CE-RESD,CONEXT,Top 10,NA,Conference on Emerging Network Experiment and Technology,31,A2,CONEXT
+CE-SI,CONTECSI,Eventos da Área,NA,International Conference on Information Systems and Technology Management,NA,A8,CONTECSI
+CE-Geoinformática,COSIT,Top 10,NA,International Conference on Spatial Information Theory,0,NA,COSIT
+CE-ACO,CP,Top 20,NA,International Conference on Principles and Practice of Constraint Programming,20,A3,CP
+CE-ACO,CPAIOR,Eventos da Área,NA,"International Conference on Integration of Constraint Programming, Artificial Intelligence, and Operations Research",NA,A8,CPAIOR
+CE-LP,CPP,Top 20,NA,International Conference on Certified Programs and Proofs,23,A3,CPP
+CE-WEBMEDIA,CRIWG,Eventos da Área,NA,International Workshop on Groupware,0,NA,CRIWG
+CE-IE,CRTL+E,Eventos da Área,NA,Congresso sobre Tecnologias na Educação,8,A7,CRTL+E
+CE-R,CRV,Eventos da Área,NA,Canadian Conference on Computer and Robot Vision,22,A3,CRV
+CE-SEG,CRYPTO,Top 10,NA,International Cryptology Conference,66,A1,CRYPTO
+CE-IHC,CSBC,Eventos da Área,NA,Congresso da Sociedade Brasileira de Computação,NA,A8,CSBC
+CE-BioComp,CSBIO,Top 20,NA,International Conference on Computational Systems-Biology and Bioinformatics,NA,A6,CSBIO
+CE-IE,CSCL,Top 20,NA,International Conference on Computer Supported Collaborative Learning,14,A4,CSCL
+CE-RESD,CSCN,Eventos da Área,NA,IEEE Conference on Standards for Communications and Networking,21,A3,CSCN
+CE-IHC,CSCW,Top 20,NA,ACM Conference on Computer Supported Cooperative Work & Social Computing,48,A1,CSCW
+CE-IHC,CSCWD,Top 20,NA,IEEE International Conference on Computer Supported Cooperative Work in Design,23,A3,CSCWD
+CE-ACPAD,CSE,Eventos da Área,NA,International Conference on Computational Science and Engineering,19,A4,CSE
+CE-IE,CSEDU,Top 10,NA,International Conference on Computer Supported Education,25,A2,CSEDU
+CE-IE,CSEE&T,Eventos da Área,NA,Conference on Software Engineering Education and Training,13,A5,CSEE&T
+CE-SEG,CSF,Top 20,NA,IEEE Computer Security Foundations Symposium,NA,A6,CSF
+GI-L,CSL,TOP 10,NA,Conference for Computer Science Logic,19,A3,CSL
+CE-CM,CSMC,Top 20,NA,Conference on Computer Simulation of Musical Creativity,NA,A6,CSMC
+CE-ACO,CTW,Eventos da Área,NA,Cologne-Twente Workshop on Graphs and Combinatorial Optimization,NA,A8,CTW
+CE-GRAPI,CVPR,Eventos da Área,NA,IEEE Conference on Computer Vision and Pattern Recognition,450,A1,CVPR
+CE-GRAPI,CVPRW,Top 10,NA,IEEE Conference on Computer Vision and Pattern Recognition Workshops,117,A1,CVPRW
+CE-IHC,CapaIHC,Eventos da Área,NA,"Workshop CAPA - Culturas, Alteridades e Participações em IHC",NA,A8,CAPAIHC
+CE-SI,CloudNet,Eventos da Área,NA,IEEE International Conference on Cloud Networking,18,A4,CLOUDNET
+CE-Geoinformática,CoARCH,Eventos da Área,NA,Workshop On Computing Techniques For Spatio-Temporal Data in Archaeology And Cultural Heritage,NA,A8,COARCH
+CE-JOGOS,CoG,Top 10,NA,Conference on Games,NA,A5,COG
+CE-PLN,CoNLL,Top 10,NA,Conference on Natural Language Learning,44,A1,CONLL
+CE-R,CoRL,Top 10,NA,Conference on Robot Learning,107,A1,CORL
+CE-SC,CollaborateCom,Top 20,NA,"International Conference on Collaborative Computing: Networking, Applications and Worksharing",NA,A6,COLLABORATECOM
+CE-EDUCOMP,CompEd,TOP 20,NA,ACM Conference on Global Computing Education,12,A4,COMPED
+CE-SI,CoopIS,Eventos da Área,NA,International Conference on Cooperative Information Systems,NA,A8,COOPIS
+CE-CCI,DAC,Top 10,NA,Design Automation Conference,60,A1,DAC
+CE-CM,DAFX,Top 10,NA,International Conference on Digital Audio Effects,NA,A5,DAFX
+CE-BD,DAMON,Eventos da Área,NA,International Workshop on Data Management on New Hardware,NA,A8,DAMON
+CE-R,DARS*,Eventos da Área,NA,International Symposium on Distributed Autonomous Robotic Systems,NA,A8,DARS*
+CE-BD,DASFAA,Top 20,NA,International Conference on Database Systems for Advanced Applications,23,A3,DASFAA
+CE-SI,DATA,Eventos da Área,NA,"International Conference on Data Science, Technology and Applications",NA,A8,DATA
+CE-CCI,DATE,Top 10,NA,"Design, Automation and Test in Europe Conference and Exhibition",49,A1,DATE
+CE-BD,DAWAK,Eventos da Área,NA,International Conference on Big Data Analytics and Knowledge Discovery,13,A5,DAWAK
+CE-SEG,DBSec,Eventos da Área,NA,IFIP WG 11.3 Conference on Data and Applications Security and Privacy,15,A4,DBSEC
+CE-CM,DCASE,Eventos da Área,NA,Workshop on Detection and Classification of Acoustic Scenes and Events,NA,A8,DCASE
+CE-RESD,DCOSS,Eventos da Área,NA,International Conference on Distributed Computing in Sensor Systems,25,A2,DCOSS
+CE-ACPAD,DDECS,Eventos da Área,NA,IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems,12,A5,DDECS
+CE-RESD,DEBS,Eventos da Área,NA,International Conference on Distributed and Event-Based Systems,20,A3,DEBS
+CE-TF,DEPCOS,Eventos da Área,NA,International Conference on Dependability and Complex Systems,NA,A8,DEPCOS
+CE-BD,DEXA,Top 20,NA,International Conference on Database and Expert Systems Applications,18,A3,DEXA
+CE-TF,DFT,Top 20,NA,IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems,16,A3,DFT
+CE-CCI,DFTVS,Eventos da Área,NA,IEEE International Symposium on Defect and Fault Tolerance of VLSI Systems,16,A4,DFTVS
+CE-SI,DG.O,Top 20,NA,Annual International Conference on Digital Government Research,NA,A6,DG.O
+CE-GRAPI,DGMM,Top 10,NA,Discrete Geometry and Mathematical Morphology (DGMM = DGCI+ISMM desde 2021),10,A4,DGMM
+CE-BD,DGO,Eventos da Área,NA,Annual International Conference on Digital Government Research,27,A2,DGO
+CE-SI,DH,Eventos da Área,NA,Digital Heritage,NA,A8,DH
+CE-GRAPI,DICTA,Eventos da Área,NA,International Conference on Digital Image Computing Techniques and Applications,22,A3,DICTA
+CE-IHC,DIS,Top 10,NA,Conference on Designing Interactive Systems,54,A1,DIS
+CE-TF,DISC,Top 10,NA,International Symposium on Distributed Computing,24,A3,DISC
+CE-LP,DLS,Eventos da Área,NA,Dynamic Languages Symposium,NA,A8,DLS
+CE-ACO,DM,Eventos da Área,NA,SIAM Conference on Discrete Mathematics,NA,A8,DM
+CE-IA,DMIN,Eventos da Área,NA,International Conference on Data Mining,53,A1,DMIN
+CE-IHC,DOCENG,Eventos da Área,NA,ACM Symposium on Document Engineering,14,A5,DOCENG
+CE-BD,DOING,Eventos da Área,NA,Intelligent Data - From Data to Knowledge Workshop,NA,A8,DOING
+CE-BD,DOLAP,Eventos da Área,NA,International Workshop On Data Warehousing and OLAP,NA,A8,DOLAP
+CE-BD,DPM,Eventos da Área,NA,International Workshop on Data Privacy Management,NA,A8,DPM
+CE-ESC,DRCN,Eventos da Área,NA,International Conference on the Design of Reliable Communication Networks,14,A5,DRCN
+CE-ESC,DS-RT,Eventos da Área,NA,IEEE/ACM International Symposium on Distributed Simulation and Real-Time Applications,14,A5,DS-RT
+CE-SI,DSAA,Eventos da Área,NA,IEEE International Conference on Data Science and Advanced Analytics,27,A2,DSAA
+CE-IHC,DSAI,Eventos da Área,NA,International Conference on Software Development for Enhancing Accessibility and Fighting Info-exclusion,NA,A8,DSAI
+CE-CCI,DSD,Top 20,NA,"Euromicro Conference on Digital System Design, Architectures, Methods and Tools",20,A3,DSD
+CE-TF,DSN,Top 10,NA,Annual IEEE/IFIP International Conference on Dependable Systems and Networks,37,A1,DSN
+CE-TF,DSNW,Eventos da Área,NA,IEEE International Conference on Dependable Systems and Networks Workshops,NA,A8,DSNW
+CE-CCI,DSP,Eventos da Área,NA,International Conference on Digital Signal Processing,8,A7,DSP
+CE-BD,DSW,Eventos da Área,5,Dataset Showcase Workshop,NA,A8,DSW
+CE-JOGOS,DiGRA,Top 20,NA,Digital Games Research Association International Conference,NA,A6,DIGRA
+CE-RESD,DySPAN,Eventos da Área,NA,IEEE Symposium on New Frontiers in Dynamic Spectrum Access Networks,21,A3,DYSPAN
+CE-IE,E-Learning,Eventos da Área,NA,IADIS International Conference on e-Learning,NA,A8,E-LEARNING
+CE-PLN,EACL,Top 10,NA,Conference of the European Chapter of the Association for Computational Linguistics,77,A1,EACL
+CE-ES,EASE,Eventos da Área,NA,International Conference on Evaluation and Assessment in Software Engineering,31,A2,EASE
+CE-SI,EATIS,Top 20,NA,Euro American Conference on Telematics and Information Systems,6,A6,EATIS
+CE-WEBMEDIA,EC,Eventos da Área,NA,ACM conference on Economics and Computation,54,A1,EC
+CE-IE,EC-TEL,Top 10,NA,European Conference on Technology Enhanced Learning,23,A3,EC-TEL
+CE-IA,ECAI,Top 20,NA,European Conference on Artificial Intelligence,44,A1,ECAI
+CE-R,ECC,Eventos da Área,NA,European Control Conference,34,A2,ECC
+CE-ACO,ECCO,Eventos da Área,NA,European Chapter on Combinatorial Optimization,NA,A8,ECCO
+CE-CCI,ECCTD,Eventos da Área,NA,European Conference on Circuit Theory and Design,NA,A8,ECCTD
+CE-GRAPI,ECCV,Eventos da Área,NA,European Conference on Computer Vision,262,A1,ECCV
+CE-BD,ECIR,Eventos da Área,NA,European Conference on Information Retrieval,47,A1,ECIR
+CE-SI,ECIS,Top 10,NA,European Conference on Information Systems,39,A1,ECIS
+CE-IC,ECML,Top 10,NA,European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases,45,A1,ECML
+CE-IA,ECML PKDD,Eventos da Área,NA,European Conference on Machine Learning and Knowledge Discovery in Databases,45,A1,ECML PKDD
+CE-R,ECMR*,Top 20,NA,European Conference on Mobile Robots,NA,A6,ECMR*
+CE-LP,ECOOP,Top 10,NA,European Conference on Object-Oriented Programming,21,A3,ECOOP
+CE-ESC,ECRTS,Top 10,NA,Euromicro Conference on Real-Time Systems,22,A3,ECRTS
+CE-ES,ECSA,Eventos da Área,NA,European Conference on Software Architecture,21,A3,ECSA
+CE-SC,ECSCW,Top 10,NA,European Conference on Computer Supported Cooperative Work,NA,A5,ECSCW
+CE-IA,ECSQARU,Eventos da Área,NA,European Conference on Symbolic and Quantitative Approaches to Reasoning and Uncertainty,12,A5,ECSQARU
+CE-BD,EDBT,Top 10,NA,International Conference on Extending Database Technology,29,A2,EDBT
+CE-TF,EDCC,Top 20,NA,European Dependable Computing Conference,16,A3,EDCC
+CE-IE,EDM,Top 10,NA,International Conference on Educational Data Mining,32,A2,EDM
+CE-SI,EDOC,Eventos da Área,NA,IEEE International Enterprise Distributed Object Computing Conference,NA,A8,EDOC
+CE-IE,EDUCON,Eventos da Área,NA,IEEE Global Engineering Education Conference,35,A1,EDUCON
+CE-IE,EDULEARN,Top 20,NA,International Conference on Education and New Learning Technologies,22,A3,EDULEARN
+CE-SI,EGOV,Top 10,NA,International Conference on Electronic Government,17,A3,EGOV
+CE-SI,EGOVIS,Eventos da Área,NA,International Conference on Electronic Government and the Information Systems Perspective,NA,A8,EGOVIS
+CE-IHC,EICS,Top 20,NA,ACM SIGCHI Symposium on Engineering Interactive Computing Systems,12,A4,EICS
+CE-BD,EJC,Eventos da Área,NA,International Conference on Information Modeling and Knowledge,7,A7,EJC
+CE-PLN,ELC,Top 20,NA,Encontro de Linguística de Corpus,NA,A6,ELC
+CE-Geoinformática,EM-GIS,Eventos da Área,NA,International Workshop on the Use of GIS in Emergency Management,NA,A8,EM-GIS
+CE-CAS,EMBC,Top 10,NA,Annual International Conference of the IEEE Engineering in Medicine and Biology Society,48,A1,EMBC
+CE-SI,EMCIS,Eventos da Área,NA,"European, Mediterranean, and Middle Eastern Conference on Information Systems",14,A5,EMCIS
+CE-IA,EMNDKLP,Top 20,NA,Conference on Empirical Methods in Natural Language Processing,NA,A6,EMNDKLP
+CE-PLN,EMNLP,Top 10,NA,Conference on Empirical Methods in Natural Language Processing,218,A1,EMNLP
+CE-SI,ENANPAD,Eventos da Área,NA,Encontro Nacional da Associação Nacional de Pós-Graduação e Pesquisa em Administração,NA,A8,ENANPAD
+CE-ES,ENASE,Eventos da Área,NA,International Conference on Evaluation of Novel Approaches to Software Engineering,16,A4,ENASE
+CE-IA,ENIAC,Top 10,20,Encontro Nacional de Inteligencia Artificial e Computacional,9,A4,ENIAC
+CE-GRAPI,EPIA,Eventos da Área,NA,Portuguese Conference on Artificial Intelligence,16,A4,EPIA
+CE-Geoinformática,ER,Top 10,NA,International Conference on Conceptual Modeling,24,A3,ER
+CE-ES,ERES,Eventos da Área,NA,Escola Regional de Engenharia de Software,4,A8,ERES
+CE-ACO,ESA,Top 10,NA,European Symposium on Algorithms,25,A2,ESA
+CE-GRAPI,ESANN,Eventos da Área,NA,"European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning",20,A3,ESANN
+CE-ES,ESEM,Eventos da Área,NA,ACM/IEEE International Symposium on Empirical Software Engineering and Measurement,30,A2,ESEM
+CE-GRAPI,ESGSR,Eventos da Área,NA,Eurographics Symposium on Rendering,NA,A8,ESGSR
+CE-LP,ESOP,Top 10,NA,European Symposium on Programming,27,A2,ESOP
+CE-CCI,ESREF,Eventos da Área,NA,European Symposium on Reliability of Electron Devices Failure Physics and Analysis,NA,A8,ESREF
+CE-CCI,ESSCIRC,Eventos da Área,NA,European Solid State Circuits Conference,21,A3,ESSCIRC
+CE-CCI,ESSDERC,Eventos da Área,NA,European Solid State Device Research Conference,15,A4,ESSDERC
+CE-IA,ESWC,Eventos da Área,NA,Extended Semantic Web Conference,32,A2,ESWC
+CE-WEBMEDIA,ESWS,Top 20,NA,European Semantic Web Conference,41,A1,ESWS
+CE-ACO,ETC,Eventos da Área,9,Encontro de Teoria da Computação,4,A8,ETC
+CE-ESC,ETFA,Top 20,NA,IEEE International Conference on Emerging Technologies and Factory Automation,34,A2,ETFA
+CE-CCI,ETS,Eventos da Área,NA,IEEE European Test Symposium,16,A4,ETS
+CE-ESC,EUC,Eventos da Área,NA,IEEE/IFIP International Conferences on Embedded and Ubiquitous Computing,NA,A8,EUC
+CE-ACO,EUROCOMB,Top 20,NA,"European Conference on Combinatorics, Graph Theory and Applications",0,NA,EUROCOMB
+CE-SEG,EUROCRYPT,Top 10,NA,International Conference on Theory and Applications of Cryptographic Techniques,66,A1,EUROCRYPT
+CE-ACPAD,EUROPAR,Top 20,NA,European Conference on Parallel Computing,19,A3,EUROPAR
+CE-ES,EUROPLOP,Eventos da Área,NA,European Conference on Pattern Languages of Programs,NA,A8,EUROPLOP
+CE-GRAPI,EUSIPCO,Eventos da Área,NA,European Signal Processing Conference,38,A1,EUSIPCO
+CE-RESD,EWSDN,Eventos da Área,NA,European Workshop on Software Defined Networks,NA,A8,EWSDN
+CE-RESD,EWSN,Eventos da Área,NA,European Conference on Wireless Sensor Networks,19,A4,EWSN
+CE-RESD,EuCNC,Eventos da Área,NA,European Conference on Networks and Communications,25,A2,EUCNC
+CE-ACPAD,EuroMPI,Eventos da Área,NA,European MPI Users Group Meeting,0,NA,EUROMPI
+CE-SEG,EuroS&P,Top 10,NA,IEEE European Symposium on Security and Privacy,52,A1,EUROS&P
+CE-ES,EuroSPI,Eventos da Área,NA,European Conference on Software Process Improvement,17,A4,EUROSPI
+CE-GRAPI,EuroVis,Top 10,NA,EG/VGTC Conference on Visualization,NA,A5,EUROVIS
+CE-MF,FACS,Top 20,NA,International Conference on Formal Aspects of Component Software,19,A3,FACS
+CE-MF,FASE,Top 10,NA,International Conference on Fundamental Approaches to Software Engineering,0,NA,FASE
+CE-JOGOS,FASE4Games,Top 20,NA,Foundations of Applied Software Engineering for Games Workshop,NA,A6,FASE4GAMES
+CE-BD,FAST,Eventos da Área,NA,USENIX Conference on File and Storage Technologies,40,A1,FAST
+CE-SEG,FC,Top 10,NA,International Conference on Financial Cryptography and Data Security,50,A1,FC
+CE-ESC,FCCM,Top 20,NA,IEEE Annual International Symposium on Field-Programmable Custom Computing Machines,NA,A6,FCCM
+CE-ACO,FCT,Eventos da Área,NA,International Symposium on Fundamentals of Computation Theory,NA,A8,FCT
+CE-JOGOS,FDG,Top 10,NA,Foundations of Digital Games,27,A2,FDG
+CE-LP,FDL,Eventos da Área,NA,Forum on Specification and Design Languages,NA,A8,FDL
+CE-SI,FEDCSIS,Eventos da Área,NA,Federated Conference on Computer Science and Information Systems,23,A3,FEDCSIS
+CE-GRAPI,FG,Eventos da Área,NA,IEEE International Conference on Automatic Face & Gesture Recognition,50,A1,FG
+CE-IE,FIE,Top 10,NA,IEEE Frontiers in Education Conference,30,A2,FIE
+CE-GRAPI,FIMH,Eventos da Área,NA,Functional Imaging and Modeling of the Heart,13,A5,FIMH
+GI-L,FLOPS,TOP 20,NA,International Symposium on Functional and Logic Programming,NA,A6,FLOPS
+CE-MF,FM,Top 10,NA,International Symposium on Formal Methods,20,A3,FM
+CE-MF,FMCAD,Top 10,NA,International Conference on Formal Methods in Computer-Aided Design,0,NA,FMCAD
+CE-RESD,FNWF,Eventos da Área,NA,IEEE Future Networks World Forum,7,A7,FNWF
+CE-ACO,FOCS,Top 10,NA,IEEE Annual Symposium on Foundations of Computer Science,62,A1,FOCS
+CE-BD,FOIS,Eventos da Área,NA,International Conference on Formal Ontology in Information Systems,NA,A8,FOIS
+CE-BD,FOMI,Eventos da Área,NA,International Workshop on Formal Ontologies Meet Industry,11,A6,FOMI
+CE-ESC,FPGA,Top 10,NA,Symposium on Field Programmable Gate Arrays,40,A1,FPGA
+CE-ESC,FPL,Top 10,NA,International Conference on Field-Programmable Logic and Applications,33,A2,FPL
+CE-CCI,FPT,Eventos da Área,NA,IEEE International Conference on Field-Programmable Technology,21,A3,FPT
+GI-L,FROCOS,TOP 20,NA,International Symposium on Frontiers of Combining Systems,NA,A6,FROCOS
+GI-L,FSCD,TOP 10,NA,International Conference on Formal Structures for Computation and Deduction,NA,A5,FSCD
+CE-ES,FSE,Top 10,NA,Fast Software Encryption,NA,A5,FSE
+CE-R,FSR*,Eventos da Área,NA,Conference on Field and Service Robotics,NA,A8,FSR*
+CE-ACO,FSTTCS,Eventos da Área,NA,Foundations of Software Technology and Theoretical Computer Science,13,A5,FSTTCS
+CE-ACO,FUN,Eventos da Área,NA,International Conference on Fun with Algorithms,NA,A8,FUN
+CE-R,FUSION,Eventos da Área,NA,International Conference on Information Fusion,31,A2,FUSION
+CE-IA,FUZZ,Top 20,NA,IEEE International Conference on Fuzzy Systems,25,A2,FUZZ
+CE-RESD,FiCloud,Eventos da Área,NA,International Conference on Future Internet of Things and Cloud,23,A3,FICLOUD
+GI-L,FoSSaCS,TOP 10,NA,International Conference on Foundations of Software Science and Computation Structures,20,A3,FOSSACS
+CE-JOGOS,GALA,Top 20,NA,Games and Learning Alliance Conference,NA,A6,GALA
+CE-JOGOS,GAS,Top 20,NA,International Workshop on Games and Software Engineering,NA,A6,GAS
+CE-ACO,GD,Eventos da Área,NA,International Symposium on Graph Drawing and Network Visualization,13,A5,GD
+CE-IA,GECCO,Top 20,NA,Genetic and Evolutionary Computation Conference,49,A1,GECCO
+CE-JOGOS,GEM,Top 20,NA,"IEEE Games, Entertainment, Media Conference",NA,A6,GEM
+CE-Geoinformática,GEOBIA,Top 20,NA,Geographic Object-based Image Analysis,NA,A6,GEOBIA
+CE-Geoinformática,GEOprocessing,Top 20,NA,"International Conference on Advanced Geographic Information Systems, Applications, and Services (GEOProcessing)",NA,A6,GEOPROCESSING
+CE-RV,GI,Top 20,NA,Graphics Interface Conference,13,A4,GI
+CE-Geoinformática,GIR,Top 20,NA,Workshop on Geographic Information Retrieval,NA,A6,GIR
+CE-Geoinformática,GIScience,Top 10,NA,International Conference on Geographic Information Science,13,A3,GISCIENCE
+CE-RESD,GLOBECOM,Top 10,NA,IEEE Global Communications Conference,64,A1,GLOBECOM
+CE-CCI,GLSVLSI,Eventos da Área,NA,Great Lakes Symposium on VLSI,26,A2,GLSVLSI
+CE-LP,GPCE,Top 20,NA,ACM International Conference on Generative Programming: Concepts and Experiences,NA,A6,GPCE
+CE-GRAPI,GRAPP,Top 20,NA,International Conference on Computer Graphics Theory and Applications,11,A5,GRAPP
+CE-SC,GROUP,Top 10,NA,International Conference on Supporting Group Work,NA,A5,GROUP
+CE-Geoinformática,GVIZ,Eventos da Área,NA,Workshop on New Directions in Geovisual Analytics,NA,A8,GVIZ
+CE-Geoinformática,GeoAI,Eventos da Área,NA,International Workshop on AI for Geographic Knowledge Discovery,NA,A8,GEOAI
+CE-Geoinformática,GeoSim,Eventos da Área,NA,International Workshop on Geospatial Simulation,NA,A8,GEOSIM
+CE-RESD,GreenCom,Eventos da Área,NA,IEEE International Conference on Green Computing and Communications,NA,A8,GREENCOM
+CE-RV,HAPTICS,Top 10,NA,IEEE Haptics Symposium,17,A3,HAPTICS
+CE-R,HAPTICS*,Eventos da Área,NA,IEEE Haptics Symposium,0,NA,HAPTICS*
+CE-TF,HASE,Top 20,NA,IEEE International Symposium on High Assurance Systems Engineering,0,NA,HASE
+CE-IHC,HCI-COLLAB,Eventos da Área,NA,Iberoamerican Workshop on Human-Computer Interaction,NA,A8,HCI-COLLAB
+CE-IHC,HCII,Eventos da Área,NA,International Conference on Human-Computer Interaction,45,A1,HCII
+CE-SC,HCOMP,Top 20,NA,AAAI Conference on Human Computation and Crowdsourcing,NA,A6,HCOMP
+CE-IHC,HCSE,Eventos da Área,NA,International Conference on Human-Centered Software Engineering,NA,A8,HCSE
+CE-CAS,HEALTHINF,Top 20,NA,International Conference on Health Informatics,18,A3,HEALTHINF
+CE-SC,HICSS,Top 20,NA,Hawaii International Conference on System Sciences,59,A1,HICSS
+CE-ACPAD,HIPC,Top 20,NA,IEEE International Conference on High Performance Computing,0,NA,HIPC
+CE-IC,HIS,Eventos da Área,NA,International Conference on Hybrid Intelligent Systems,15,A4,HIS
+CE-SEG,HOST,Eventos da Área,NA,IEEE International Symposium on Hardware Oriented Security and Trust,26,A2,HOST
+CE-RESD,HOTNETS,Top 20,NA,ACM Workshop on Hot Topics in Networks,24,A3,HOTNETS
+CE-ACPAD,HPCA,Top 10,NA,IEEE International Symposium on High Performance Computer Architecture,59,A1,HPCA
+CE-ACPAD,HPCC,Top 20,NA,International Conference on High Performance Computing and Communications,23,A3,HPCC
+CE-ACPAD,HPCS,Eventos da Área,NA,International Conference on High Performance Computing & Simulation,18,A4,HPCS
+CE-ACPAD,HPDC,Top 20,NA,International Symposium on High Performance Distributed Computing,24,A3,HPDC
+CE-IHC,HRI,Top 20,NA,ACM/IEEE International Conference on Human Robot Interaction,55,A1,HRI
+CE-LP,HS,Eventos da Área,NA,Haskell Symposium,NA,A8,HS
+CE-WEBMEDIA,HT,Top 10,NA,ACM Conference on Hypertext and Social Media,NA,A5,HT
+CE-R,Humanoids,Top 10,NA,IEEE RAS International Conference on Humanoid Robot,25,A2,HUMANOIDS
+CE-RV,I/ITSEC,Eventos da Área,NA,"Interservice/Industry Training, Simulation & Education Conference",NA,A8,I/ITSEC
+CE-IHC,IARIA,Eventos da Área,NA,International Conference on Advances in Computer-Human Interaction,NA,A8,IARIA
+CE-SI,IAS,Eventos da Área,NA,Industry Applications Society Annual Meeting,NA,A8,IAS
+CE-R,IAV**,Eventos da Área,NA,IFAC Symposium on Intelligent Autonomous Vehicles,NA,A8,IAV**
+CE-CCI,IBERCHIP,Eventos da Área,NA,Workshop Iberchip,NA,A8,IBERCHIP
+CE-PLN,IBERSPEECH,Eventos da Área,NA,IberSPEECH Conference,NA,A8,IBERSPEECH
+CE-SI,IC3K,Eventos da Área,NA,"International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management",10,A6,IC3K
+CE-TF,ICA3PP,Eventos da Área,NA,International Conference on Algorithms and Architectures for Parallel Processing,15,A4,ICA3PP
+CE-ACO,ICALP,Top 10,NA,"International Colloquium on Automata, Languages, and Programming",34,A2,ICALP
+CE-IE,ICALT,Top 10,NA,IEEE International Conference on Advanced Learning Technologies,23,A3,ICALT
+CE-IC,ICANN,Top 20,NA,International Conference on Artificial Neural Networks,32,A2,ICANN
+CE-IA,ICAPS,Top 10,NA,International Conference on Automated Planning and Scheduling,35,A1,ICAPS
+CE-RV,ICAR,Eventos da Área,NA,International Conference on Advanced Robotics,20,A3,ICAR
+CE-R,ICAR*,Top 10,NA,International Conference on Advanced Robotics,NA,A5,ICAR*
+CE-R,ICARA*,Eventos da Área,NA,"International Conference on Automation, Robotics and Applications",NA,A8,ICARA*
+CE-R,ICARCV,Eventos da Área,NA,"International Conference on Control, Automation, Robotics and Vision",NA,A8,ICARCV
+CE-R,ICARM,Eventos da Área,NA,International Conference on Advanced Robotics and Mechatronics,16,A4,ICARM
+CE-R,ICAROB,Eventos da Área,NA,International Conference on Artificial Life and Robotics,NA,A8,ICAROB
+CE-R,ICARSC,Eventos da Área,NA,IEEE International Conference on Autonomous Robot Systems and Competitions,19,A4,ICARSC
+CE-CM,ICASSP,Top 10,NA,"IEEE International Conference on Acoustics, Speech and Signal Processing",137,A1,ICASSP
+CE-GRAPI,ICB,Top 10,NA,International Conference on Biometrics,NA,A5,ICB
+CE-SEG,ICBC,Eventos da Área,NA,IEEE International Conference on Blockchain and Cryptocurrency,39,A1,ICBC
+CE-TF,ICBCT,Eventos da Área,NA,Internacional Conference on Blockchain Technology,16,A4,ICBCT
+CE-RESD,ICC,Top 10,NA,IEEE International Conference on Communications,76,A1,ICC
+CE-RESD,ICC Workshops,Eventos da Área,NA,International Conference on Communications Workshops,NA,A8,ICC WORKSHOPS
+CE-R,ICCA,Eventos da Área,NA,IEEE International Conference on Control and Automation,18,A4,ICCA
+CE-BioComp,ICCABS,Top 20,NA,International Conference on Computational Advances in Bio and Medical Sciences,0,NA,ICCABS
+CE-CCI,ICCAD,Top 10,NA,IEEE/ACM International Conference on Computer-Aided Design,46,A1,ICCAD
+CE-R,ICCAR,Eventos da Área,NA,"International Conference on Control, Automation and Robotics",20,A3,ICCAR
+CE-RESD,ICCCN,Eventos da Área,NA,International Conference on Computer Communications and Networks,31,A2,ICCCN
+CE-CCI,ICCD,Top 20,NA,International Conference on Computer Design,23,A3,ICCD
+CE-IE,ICCE-EDU,Eventos da Área,NA,International Conference on Computers in Education,NA,A8,ICCE-EDU
+CE-IHC,ICCHP,Eventos da Área,NA,International Conference on Computers Helping People with Special Needs,16,A4,ICCHP
+CE-ESC,ICCPS,Top 20,NA,International Conference on Cyber-Physical Systems,27,A2,ICCPS
+CE-ACPAD,ICCS,Eventos da Área,NA,International Conference on Computational Science,NA,A8,ICCS
+GI-L,ICCTCC,TOP 20,NA,"International Conference on Computability Theory, Computability and Complexity",NA,A6,ICCTCC
+CE-GRAPI,ICCV,Eventos da Área,NA,IEEE International Conference on Computer Vision,291,A1,ICCV
+CE-GRAPI,ICCVW,Top 10,NA,IEEE International Conference on Computer Vision Workshops,80,A1,ICCVW
+CE-GRAPI,ICDAR,Eventos da Área,NA,International Conference on Document Analysis and Recognition,50,A1,ICDAR
+CE-TF,ICDCN,Top 20,NA,International Conference on Distributed Computing and Networking,20,A3,ICDCN
+CE-TF,ICDCS,Top 10,NA,International Conference on Distributed Computing Systems,50,A1,ICDCS
+CE-TF,ICDCSW,Eventos da Área,NA,International Conference on Distributed Computing Systems Workshops,0,NA,ICDCSW
+CE-BD,ICDE,Top 10,NA,IEEE International Conference on Data Engineering,82,A1,ICDE
+CE-SEG,ICDF,Eventos da Área,NA,IFIP International Conference on Digital Forensics,NA,A8,ICDF
+CE-SI,ICDIM,Eventos da Área,NA,International Conference on Digital Information Management,NA,A8,ICDIM
+CE-GRAPI,ICDIP,Eventos da Área,NA,International Conference on Digital Image Processing,12,A5,ICDIP
+CE-R,ICDL-EpiRob,Eventos da Área,NA,IEEE International Conference on Development and Learning and Epigenetic Robotics,NA,A8,ICDL-EPIROB
+CE-IC,ICDM,Top 10,NA,IEEE International Conference on Data Mining,53,A1,ICDM
+CE-BD,ICDT,Top 20,NA,International Conference on Database Theory,21,A3,ICDT
+CE-RV,ICDVRAT,Eventos da Área,NA,"International Conference on Disability, Virtual Reality & Associated Technologies",NA,A8,ICDVRAT
+CE-CCI,ICE-CCN,Eventos da Área,NA,"International Conference on Emerging Trends in Computing, Communication and Nanotechnology",NA,A8,ICE-CCN
+CE-JOGOS,ICEC,Top 10,NA,IFIP International Conference on Entertainment Computing,NA,A5,ICEC
+CE-CCI,ICECS,Top 10,NA,"IEEE International Conference on Electronics, Circuits and Systems",18,A3,ICECS
+CE-SI,ICEGOV,Eventos da Área,NA,International Conference on Theory and Practice of Eletronic Governance,21,A3,ICEGOV
+CE-BD,ICEIS,Top 20,NA,International Conference on Enterprise Information Systems,23,A3,ICEIS
+CE-IE,ICEIT,Eventos da Área,NA,International Conference on Educational and Information Technology,13,A5,ICEIT
+CE-IE,ICEMT,Top 20,NA,International Conference on Education and Multimedia Technology,12,A4,ICEMT
+CE-RV,ICER,Eventos da Área,NA,International Computing Education Research,32,A2,ICER
+CE-IE,ICET,Top 20,NA,International Conference on Education and Technology,23,A3,ICET
+CE-IE,ICETC,Top 20,NA,International Conference on Education Technology and Computer,11,A5,ICETC
+CE-MF,ICFEM,Top 10,NA,International Conference on Formal Engineering Methods,12,A3,ICFEM
+CE-LP,ICFP,Top 10,NA,International Conference on Functional Programming,0,NA,ICFP
+CE-ES,ICGSE,Eventos da Área,NA,IEEE International Conference on Global Software Engineering,NA,A8,ICGSE
+CE-MF,ICGT,Top 20,NA,International Conference on Graph Transformation,NA,A6,ICGT
+CE-CAS,ICHI,Top 10,NA,IEEE International Conference on Healthcare Informatics,27,A2,ICHI
+CE-GRAPI,ICIAP,Top 20,NA,International Conference on Image Analysis and Processing,21,A3,ICIAP
+CE-SEG,ICICS,Eventos da Área,NA,International Conference on Information and Communications Security,16,A4,ICICS
+CE-JOGOS,ICIDS,Top 10,NA,International Conference on Interactive Digital Storytelling,NA,A5,ICIDS
+CE-IE,ICIET,Top 20,NA,International Conference on Information and Education Technology,15,A3,ICIET
+CE-ESC,ICIIECS,Eventos da Área,NA,"International Conference on Innovations in Information, Embedded and Communication Systems",21,A3,ICIIECS
+CE-SI,ICIIS,Eventos da Área,NA,IEEE International Conference on Industrial and Information Systems,18,A4,ICIIS
+CE-R,ICINCO,Eventos da Área,NA,"International Conference on Informatics in Control, Automation and Robotics",15,A4,ICINCO
+CE-GRAPI,ICIP,Eventos da Área,NA,IEEE International Conference on Image Processing,66,A1,ICIP
+CE-R,ICIRA,Eventos da Área,NA,International Conference on Intelligent Robotics and Applications,15,A4,ICIRA
+CE-SI,ICIS,Top 10,NA,International Conference on Information Systems,39,A1,ICIS
+CE-SEG,ICISC,Eventos da Área,NA,International Conference on Information Security and Cryptology,12,A5,ICISC
+CE-IHC,ICISO,Eventos da Área,NA,International Conference on Informatics and Semiotics in Organisations,NA,A8,ICISO
+CE-SEG,ICISS,Eventos da Área,NA,International Conference on Information Systems Security,NA,A8,ICISS
+CE-SI,ICIT,Eventos da Área,NA,IEEE International Conference on Industrial Technology,NA,A8,ICIT
+CE-IE,ICITE,Top 20,NA,International Conference on Information Technology and Education,15,A3,ICITE
+CE-SI,ICITS,Eventos da Área,NA,International Conference on Information Theoretic Security,NA,A8,ICITS
+CE-IHC,ICIV,Eventos da Área,NA,International Conference on Information Visualisation,NA,A8,ICIV
+GI-L,ICLP,TOP 10,NA,International Conference on Logic Programming,NA,A5,ICLP
+CE-GRAPI,ICLR,Eventos da Área,NA,International Conference on Learning Representations,362,A1,ICLR
+CE-CCI,ICM,Eventos da Área,NA,International Conference on Microelectronics,16,A4,ICM
+CE-R,ICMA,Eventos da Área,NA,IEEE International Conference on Mechatronics and Automation,17,A4,ICMA
+CE-CM,ICMC,Top 10,NA,International Computer Music Conference,NA,A5,ICMC
+CE-R,ICMCR,Eventos da Área,NA,"International Conference on Mechatronics, Control and Robotics",NA,A8,ICMCR
+CE-WEBMEDIA,ICME,Top 10,NA,IEEE International Conference on Multimedia and Expo,50,A1,ICME
+CE-RV,ICMEW,Eventos da Área,NA,IEEE International Conference on Multimedia and Expo Workshops,26,A2,ICMEW
+CE-IHC,ICMI,Top 20,NA,ACM International Conference on Multimodal Interfaces,34,A2,ICMI
+CE-IA,ICML,Top 10,NA,International Conference on Machine Learning,272,A1,ICML
+CE-IC,ICMLA,Top 20,NA,IEEE International Conference on Machine Learning and Applications,40,A1,ICMLA
+CE-CM,ICMPC,Top 20,NA,International Conference on Music Perception and Cognition,NA,A6,ICMPC
+CE-WEBMEDIA,ICMR,Top 10,NA,ACM International Conference on Multimedia Retrieval,34,A2,ICMR
+CE-RESD,ICNC,Top 20,NA,"International Conference on Computing, Networking and Communications",28,A2,ICNC
+CE-RESD,ICNP,Top 20,NA,International Conference on Network Protocols,27,A2,ICNP
+CE-RESD,ICOIN,Eventos da Área,NA,International Conference on Information Networking,28,A2,ICOIN
+CE-ESC,ICOMP,Eventos da Área,NA,International Conference on Internet Computing and Internet of Things,NA,A8,ICOMP
+CE-IC,ICONIP,Eventos da Área,NA,International Conference on Neural Information Processing,35,A1,ICONIP
+CE-R,ICORR*,Top 20,NA,IEEE International Conference on Rehabilitation Robotics,NA,A6,ICORR*
+CE-ACPAD,ICPADS,Eventos da Área,NA,International Conference on Parallel and Distributed Systems,24,A3,ICPADS
+CE-ES,ICPC,Eventos da Área,NA,International Conference on Program Comprehension,33,A2,ICPC
+CE-ESC,ICPE,Eventos da Área,NA,International Conference on Performance Engineering,27,A2,ICPE
+CE-CM,ICPME,Eventos da Área,NA,"International Conference on Philosophy, Music and Emotion",NA,A8,ICPME
+CE-ACPAD,ICPP,Top 20,NA,International Conference on Parallel Processing,14,A4,ICPP
+CE-GRAPI,ICPR,Eventos da Área,NA,International Conference on Pattern Recognition,68,A1,ICPR
+CE-GRAPI,ICPRAM,Eventos da Área,NA,International Conference on Pattern Recognition Applications and Methods,21,A3,ICPRAM
+CE-R,ICRA,Top 10,NA,IEEE International Conference on Robotics and Automation,129,A1,ICRA
+CE-R,ICRAE,Eventos da Área,NA,International Conference on Robotics and Automation Engineering,11,A6,ICRAE
+CE-ACPAD,ICS,Top 20,NA,International Conference on Supercomputing,26,A2,ICS
+CE-CM,ICSC,Top 20,NA,International Conference on Semantic Computing,23,A3,ICSC
+CE-ES,ICSE,Top 10,NA,International Conference on Software Engineering,98,A1,ICSE
+CE-ES,ICSE-NIER,Eventos da Área,NA,ACM International Conference on Software Engineering: New Ideas and Emerging Results,22,A3,ICSE-NIER
+CE-ES,ICSE-SEET,Eventos da Área,NA,Software Engineering Education and Training of ICSE,NA,A8,ICSE-SEET
+CE-ES,ICSE-SEIP,Eventos da Área,NA,ACM International Conference on Software Engineering: Software Engineering in Practice,34,A2,ICSE-SEIP
+CE-ES,ICSE-SEIS,Top 20,NA,International Conference on Software Engineering: Software Engineering in Society,NA,A6,ICSE-SEIS
+CE-IE,ICSLE,Eventos da Área,NA,International Conference on Smart Learning Environments,NA,A8,ICSLE
+CE-ES,ICSME,Top 10,NA,IEEE International Conference on Software Maintenance and Evolution,36,A1,ICSME
+CE-ES,ICSOB,Eventos da Área,NA,International Conference on Software Business,13,A5,ICSOB
+CE-ES,ICSOFT,Eventos da Área,NA,International Conference on Software Technologies,14,A5,ICSOFT
+CE-ESC,ICSPCEC,Eventos da Área,NA,"International Conference on Signal Processing, Communication, Power and Embedded System",2,A8,ICSPCEC
+CE-ES,ICSR,Eventos da Área,NA,International Conference on Software Reuse,NA,A8,ICSR
+CE-ES,ICSSP,Eventos da Área,NA,International Conference on Software and Systems Process,NA,A8,ICSSP
+CE-ES,ICSTV,Eventos da Área,NA,"IEEE International Conference on Software Testing, Verification and Validation",34,A2,ICSTV
+CE-ESC,ICT,Eventos da Área,NA,International Conference on Telecommunications,21,A3,ICT
+CE-SC,ICT4D,Eventos da Área,NA,International Conference on Social Implications of Computers in Developing Countries,NA,A8,ICT4D
+CE-MF,ICTAC,Top 20,NA,International Colloquium on Theoretical Aspects of Computing,11,A5,ICTAC
+CE-IC,ICTAI,Top 20,NA,IEEE International Conference on Tools with Artificial Intelligence,28,A2,ICTAI
+CE-BD,ICTIR,Eventos da Área,NA,Conference on the Theory of Information Retrieval,24,A3,ICTIR
+CE-ES,ICTSS,Eventos da Área,NA,IFIP International Conference on Testing Software and Systems,NA,A8,ICTSS
+CE-R,ICUAS,Top 10,NA,International Conference on Unmanned Aircraft Systems,32,A2,ICUAS
+CE-RESD,ICUMT,Eventos da Área,NA,International Conference on Ultra Modern Telecommunications,19,A4,ICUMT
+CE-RV,ICVIIP,Eventos da Área,NA,International Conference on Visualization: Imaging and Image Processing,NA,A8,ICVIIP
+CE-CAS,ICVR,Top 20,NA,International Conference on Virtual Rehabilitation,12,A4,ICVR
+CE-WEBMEDIA,ICWE,Top 20,NA,International Conference on Web Engineering,16,A3,ICWE
+CE-WEBMEDIA,ICWS,Top 20,NA,IEEE International Conference on Web Services,26,A2,ICWS
+CE-IA,ICWSM,Top 20,NA,International AAAI Conference on Web and Social Media,59,A1,ICWSM
+CE-IA,IDA,Eventos da Área,NA,International Symposium on Intelligent Data Analysis,NA,A8,IDA
+CE-IHC,IDC,Top 10,NA,International Symposium on Intelligent Distributed Computing,NA,A5,IDC
+CE-RESD,IDCS,Eventos da Área,NA,International Conference on Internet and Distributed Computing Systems,NA,A8,IDCS
+CE-BD,IDEAS,Top 20,NA,International Database Engineering and Applications Symposium,16,A3,IDEAS
+CE-ESC,IECON,Eventos da Área,NA,Annual Conference of the IEEE Industrial Electronics Society,28,A2,IECON
+CE-TF,IEEE Blockchain,Eventos da Área,NA,IEEE International Conference on Blockchain,NA,A8,IEEE BLOCKCHAIN
+CE-GRAPI,IEEE IST,Eventos da Área,NA,IEEE International Conference on Imaging Systems and Techniques,17,A4,IEEE IST
+CE-CCI,IEEE NANO,Top 20,NA,IEEE Conference on Nanotechnology,12,A4,IEEE NANO
+CE-RV,IEEE S&P,Eventos da Área,NA,IEEE Symposium on Security and Privacy,NA,A8,IEEE S&P
+CE-SC,IEEE SMC,Top 10,NA,"IEEE International Conference on Systems, Man and Cybernetics",NA,A5,IEEE SMC
+CE-GRAPI,IEEE VIS,Top 10,NA,IEEE Visualization,22,A3,IEEE VIS
+CE-RESD,IEEEANTS,Eventos da Área,NA,IEEE International Conference on Advanced Networks and Telecommuncations Systems,NA,A8,IEEEANTS
+CE-RESD,IEEECLOUD,Eventos da Área,NA,IEEE International Conference on Cloud Computing,NA,A8,IEEECLOUD
+CE-ESC,IESS,Eventos da Área,NA,IFIP International Embedded Systems Symposium,NA,A8,IESS
+CE-ESC,IFAC,Eventos da Área,NA,World Congress of the International Federation of Automatic Control,0,NA,IFAC
+CE-R,IFAC*,Eventos da Área,NA,IFAC - World Congress of the International Federation of Automatic Control,60,A1,IFAC*
+CE-MF,IFM,Top 10,NA,International Conference on Integrated Formal Methods,NA,A5,IFM
+CE-Geoinformática,IGARSS,Top 20,NA,IEEE International Geoscience and Remote Sensing Symposium,43,A1,IGARSS
+CE-WEBMEDIA,IH&MMSec,Eventos da Área,NA,ACM Workshop on Information Hiding and Multimedia Security,23,A3,IH&MMSEC
+CE-SC,IHC,Top 20,22,Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais,16,A3,IHC
+CE-IHC,IHM,Eventos da Área,NA,Conférence Francophone sur l’Interaction Homme-Machine,NA,A8,IHM
+CE-SEG,IIH-MSP,Eventos da Área,NA,International Conference on Intelligent Information Hiding and Multimedia Signal Processing,NA,A8,IIH-MSP
+CE-ACPAD,IISWC,Eventos da Área,NA,IEEE International Symposium on Workload Characterization,22,A3,IISWC
+CE-SI,IIWAS,Top 20,NA,International Conference on Information Integration and Web-based Applications & Services,15,A3,IIWAS
+CE-IC,IJCAI,Top 20,NA,International Joint Conference on Artificial Intelligence,136,A1,IJCAI
+GI-L,IJCAR,TOP 20,NA,International Joint Conference on Automated Reasoning,NA,A6,IJCAR
+CE-PLN,IJCNLP,Top 10,NA,International Joint Conference on Natural Language Processing,32,A2,IJCNLP
+CE-IC,IJCNN,Top 10,NA,IEEE International Joint Conference on Neural Networks,66,A1,IJCNN
+CE-IHC,ILA,Eventos da Área,NA,Interaction Latin America,NA,A8,ILA
+CE-IA,ILP,Eventos da Área,NA,International Conference on Inductive Logic Programming,NA,A8,ILP
+CE-RESD,IM,Top 20,NA,IFIP/IEEE International Symposium on Integrated Network Management,25,A2,IM
+CE-RESD,IMC,Top 10,NA,ACM Internet Measurement Conference,45,A1,IMC
+CE-RESD,IMIS,Eventos da Área,NA,International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing,12,A5,IMIS
+CE-SC,INCOS,Top 20,NA,International Conference on Intelligent Networking and Collaborative Systems,NA,A6,INCOS
+CE-ESC,INDIN,Top 20,NA,IEEE International Conference on Industrial Informatics,24,A3,INDIN
+CE-SEG,INDOCRYPT,Eventos da Área,NA,International Conference on Cryptology in India,17,A4,INDOCRYPT
+CE-SI,INDUSCON,Eventos da Área,NA,International Conference on Industry Applications,12,A5,INDUSCON
+CE-RESD,INFOCOM,Top 10,NA,IEEE International Conference on Computer Communications,80,A1,INFOCOM
+CE-RESD,INFOCOM WKSHPS,Eventos da Área,NA,IEEE Conference on Computer Communications Workshops,NA,A8,INFOCOM WKSHPS
+CE-PLN,INLG,Top 20,NA,International Natural Language Generation conference,NA,A6,INLG
+CE-ACO,INOC,Eventos da Área,NA,International Network Optimization Conference,NA,A8,INOC
+CE-SI,INTECH,Eventos da Área,NA,International Conference on Innovative Computing Technology,NA,A8,INTECH
+CE-IHC,INTERACT,Top 10,NA,IFIP TC 13 International Conference on Human-Computer Interaction,23,A3,INTERACT
+CE-PLN,INTERSPEECH,Top 20,NA,Conference of the International Speech Communication Association,112,A1,INTERSPEECH
+CE-CCI,IOLTS,Eventos da Área,NA,IEEE International On-Line Testing Symposium,18,A4,IOLTS
+CE-BD,IPAW,Eventos da Área,NA,International Provenance and Annotation Workshop,NA,A8,IPAW
+CE-RESD,IPCCC,Eventos da Área,NA,"International Performance, Computing, and Communications Conference",17,A4,IPCCC
+CE-ACO,IPCO,Top 10,NA,Conference on Integer Programming and Combinatorial Optimization,17,A3,IPCO
+CE-CAS,IPDLN,Eventos da Área,NA,International Population Data Linkage Network,NA,A8,IPDLN
+CE-ACPAD,IPDPS,Top 10,NA,IEEE International Parallel & Distributed Processing Symposium,41,A1,IPDPS
+CE-ACO,IPEC,Top 20,NA,International Symposium on Parameterized and Exact Computation,17,A3,IPEC
+CE-SI,IPMU,Eventos da Área,NA,International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems,16,A4,IPMU
+CE-R,IRC,Eventos da Área,NA,IEEE International Conference on Robotic Computing,25,A2,IRC
+CE-BD,IRI,Eventos da Área,NA,IEEE International Conference on Information Reuse and Integration,25,A2,IRI
+CE-GRAPI,IRMMW-THZ,Eventos da Área,NA,"International Conference on Infrared, Millimeter and Terahertz Waves",18,A4,IRMMW-THZ
+CE-IA,IROS,Top 20,NA,IEEE/RSJ International Conference on Intelligent Robots and Systems,92,A1,IROS
+CE-ACO,ISAAC,Top 20,NA,International Symposium on Algorithms and Computation,17,A3,ISAAC
+CE-RESD,ISADS,Eventos da Área,NA,International Symposium on Autonomous Decentralized Systems,NA,A8,ISADS
+CE-R,ISAM*,Eventos da Área,NA,IEEE International Symposium on Assembly and Manufacturing,NA,A8,ISAM*
+CE-CAS,ISBI,Top 20,NA,IEEE International Symposium on Biomedical Imaging,59,A1,ISBI
+CE-BioComp,ISBRA,Top 10,NA,International Symposium on Bioinformatics Research and Applications,0,NA,ISBRA
+CE-ACPAD,ISC,Top 20,NA,International Supercomputing Conference,26,A2,ISC
+CE-RESD,ISC2,Eventos da Área,NA,IEEE International Smart Cities Conference,24,A3,ISC2
+CE-ACPAD,ISCA,Top 10,NA,International Symposium on Computer Architecture,64,A1,ISCA
+CE-CCI,ISCAS,Top 10,NA,IEEE International Symposium on Circuits and Systems,41,A1,ISCAS
+CE-TF,ISCC,Top 20,NA,International Symposium on Computers and Communications,27,A2,ISCC
+CE-SI,ISCIS,Eventos da Área,NA,International Symposium on Computer and Information Sciences,NA,A8,ISCIS
+CE-ACO,ISCO,Eventos da Área,NA,International Symposium on Combinatorial Optimization,0,NA,ISCO
+CE-SI,ISCON,Eventos da Área,NA,International Conference on Information Systems and Computer Networks,21,A3,ISCON
+CE-SI,ISCRAM,Eventos da Área,NA,International Conference on Information Systems for Crisis Response and Management,21,A3,ISCRAM
+CE-SI,ISD,Eventos da Área,NA,International Conference on Information Systems Development,14,A5,ISD
+CE-CAS,ISDA,Top 20,NA,International Conference on Intelligent Systems Design and Applications,18,A3,ISDA
+CE-ES,ISE,Eventos da Área,3,Workshop Brasileiro de Engenharia de Software Inteligente,NA,A8,ISE
+CE-IHC,ISEA,Eventos da Área,NA,International Symposium on Electronic Arts,NA,A8,ISEA
+CE-IE,ISECON,Eventos da Área,NA,Information Systems Education Conference,NA,A8,ISECON
+CE-R,ISER*,Top 20,NA,International Symposium on Experimental Robotics,NA,A6,ISER*
+CE-IE,ISET,Top 20,NA,International Symposium on Educational Technology,14,A4,ISET
+CE-CCI,ISFPGA,Top 20,NA,International Symposium on Field Programmable Gate Arrays,NA,A6,ISFPGA
+CE-RESD,ISGT,Eventos da Área,NA,IEEE PES Innovative Smart Grid Technologies,26,A2,ISGT
+CE-RESD,ISGT-Europe,Eventos da Área,NA,IEEE PES Innovative Smart Grid Technologies Conference Europe,22,A3,ISGT-EUROPE
+CE-ESC,ISIE,Eventos da Área,NA,IEEE International Symposium on Industrial Electronics,24,A3,ISIE
+CE-IA,ISIPTA,Eventos da Área,NA,International Symposium on Imprecise Probabilities: Theories and Applications,NA,A8,ISIPTA
+CE-SI,ISLA,Eventos da Área,NA,Information Systems in Latin America,NA,A8,ISLA
+CE-CCI,ISLPED,Eventos da Área,NA,International Symposium on Low Power Electronics and Design,22,A3,ISLPED
+CE-SC,ISLS,Eventos da Área,NA,International Conference on Computer Supported Collaborative Learning,NA,A8,ISLS
+CE-CM,ISM,Top 10,NA,IEEE International Symposium on Multimedia,17,A3,ISM
+CE-RV,ISMAR,Top 10,NA,IEEE International Symposium on Mixed and Augmented Reality,37,A1,ISMAR
+CE-BioComp,ISMB/ECCB,Top 20,NA,Intelligent Systems for Molecular Biology / European Conference on Computational Biology,NA,A6,ISMB/ECCB
+CE-R,ISMCR,Eventos da Área,NA,International Symposium on Measurement and Control in Robotics,NA,A8,ISMCR
+CE-CM,ISMIR,Top 10,NA,International Society for Music Information Retrieval Conference,NA,A5,ISMIR
+CE-LP,ISMM,Top 20,NA,International Symposium on Mathematical Morphology,NA,A6,ISMM
+CE-ACO,ISMP,Eventos da Área,NA,International Symposium on Mathematical Programming,NA,A8,ISMP
+CE-R,ISMR,Eventos da Área,NA,International Symposium on Medical Robotics,NA,A8,ISMR
+CE-CCI,ISMVL,Eventos da Área,NA,IEEE International Symposium on Multiple-Valued Logic,13,A5,ISMVL
+CE-MF,ISOLA,Top 20,NA,"International Symposium on Leveraging Applications of Formal Methods, Verification and Validation",22,A3,ISOLA
+CE-ESC,ISORC,Top 20,NA,IEEE International Symposium on RealTime Distributed Computing,14,A4,ISORC
+CE-CCI,ISPD,Top 10,NA,ACM International Symposium on Physical Design,19,A3,ISPD
+CE-ACPAD,ISPDC,Eventos da Área,NA,International Symposium on Parallel and Distributed Computing,14,A5,ISPDC
+CE-Geoinformática,ISPRS,Top 10,NA,"ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",32,A2,ISPRS
+CE-CCI,ISQED,Eventos da Área,NA,International Symposium on Quality Electronic Design,22,A3,ISQED
+CE-R,ISR*,Eventos da Área,NA,IEEE International Conference on Intelligence and Safety for Robotics,NA,A8,ISR*
+CE-R,ISRR*,Top 20,NA,International Symposium on Robotics Research,NA,A6,ISRR*
+CE-RV,ISS,Top 20,NA,ACM International Conference on Interactive Surfaces and Spaces,18,A3,ISS
+CE-SEG,ISSA,Eventos da Área,NA,Information Security for South Africa,NA,A8,ISSA
+CE-TF,ISSRE,Top 10,NA,IEEE International Symposium on Software Reliability Engineering,31,A2,ISSRE
+CE-ES,ISSTA,Eventos da Área,NA,International Symposium on Software Testing and Analysis,50,A1,ISSTA
+CE-ES,ISTAR,Eventos da Área,NA,International i*Workshop,NA,A8,ISTAR
+CE-GRAPI,ISVC,Eventos da Área,NA,International Symposium on Visual Computing,18,A4,ISVC
+CE-ESC,ISVLSI,Top 20,NA,IEEE Computer Society Annual Symposium on VLSI,23,A3,ISVLSI
+CE-IA,ISWC,Eventos da Área,NA,International Semantic Web Conference,41,A1,ISWC
+CE-RESD,ISWCS,Eventos da Área,NA,International Symposium on Wireless Communication Systems,23,A3,ISWCS
+CE-ACO,ITCS,Top 10,NA,Conference on Innovations in Theoretical Computer Science,37,A1,ITCS
+CE-SI,ITNG,Top 20,NA,International Conference on Information Technology : New Generations,14,A4,ITNG
+CE-MF,ITP,Top 20,NA,International Conference on Interactive Theorem Proving,18,A3,ITP
+CE-IE,ITS,Top 20,NA,International Conference on Intelligent Tutoring Systems,18,A3,ITS
+CE-GRAPI,ITSC,Eventos da Área,NA,IEEE International Conference on Intelligent Transportation Systems,58,A1,ITSC
+CE-IHC,IUI,Top 10,NA,International Conference on Intelligent User Interfaces,52,A1,IUI
+CE-JOGOS,IVA,Top 10,NA,International Conference on Intelligent Virtual Agents,24,A3,IVA
+CE-RV,IVAPP,Eventos da Área,NA,International Conference on Information Visualization Theory and Applications,NA,A8,IVAPP
+CE-BioComp,IWBBIO,Top 10,NA,International Work-Conference on Bioinformatics and Biomedical Engineering,13,A3,IWBBIO
+CE-RESD,IWCMC,Eventos da Área,NA,International Wireless Communications and Mobile Computing Conference,35,A1,IWCMC
+CE-PLN,IWCS,Eventos da Área,NA,International Workshop on Computational Semantics,NA,A8,IWCS
+CE-Geoinformática,IWCTS,Eventos da Área,NA,International Workshop on Computational Transportation Science,NA,A8,IWCTS
+CE-ACO,IWOCA,Eventos da Área,NA,International Workshop on Combinatorial Algorithms,11,A6,IWOCA
+CE-SI,IWSECO,Eventos da Área,NA,International Workshop on Software Ecosystems,NA,A8,IWSECO
+CE-GRAPI,IWSSIP,Top 20,NA,"International Conference on Systems, Signals and Image Processing",17,A3,IWSSIP
+CE-IHC,IoTAAL,Eventos da Área,NA,Workshop on Internet of Things for Ambient Assisted Living,NA,A8,IOTAAL
+CE-SI,JURIX,Eventos da Área,NA,International Conference on Legal Knowledge and Information Systems,18,A4,JURIX
+CE-IC,KDD,Top 20,NA,ACM SIGKDD Conference on Knowledge Discovery and Data Mining,129,A1,KDD
+CE-BD,KDIR,Eventos da Área,NA,International Conference on Knowledge Discovery and Information Retrieval,12,A5,KDIR
+CE-BD,KDMILE,Top 20,NA,"Symposium on Knowledge Discovery, Mining and Learning",8,A6,KDMILE
+CE-SI,KES,Eventos da Área,NA,International Conference on Knowledge-Based and Intelligent Information & Engineering Systems,NA,A8,KES
+CE-SI,KESW,Eventos da Área,NA,International Conference on Knowledge Engineering and Semantic Web,NA,A8,KESW
+CE-SI,KMO,Eventos da Área,NA,International Conference on Knowledge Management in Organizations,14,A5,KMO
+CE-IA,KR,Top 10,NA,International Conference on Principles of Knowledge Representation and Reasoning,29,A2,KR
+CE-EDUCOMP,Koli Calling,TOP10,NA,Koli Calling International Conference on Computing Education Research,18,A4,KOLI CALLING
+CE-IE,L@S,Top 10,NA,ACM Conference on Learning @ Scale,28,A2,L@S
+CE-IA,LA-CCI,Eventos da Área,NA,Latin American Conference on Computational Intelligence,12,A5,LA-CCI
+CE-IHC,LA-WEB,Eventos da Área,NA,Latin American Web Congress,NA,A8,LA-WEB
+CE-CM,LAC,Top 20,NA,Linux Audio Conference,NA,A6,LAC
+CE-IE,LACLO,Top 20,NA,Latin American Conference on Learning Objects and Technologies,10,A5,LACLO
+CE-TF,LADC,Top 20,12,Latin-American Symposium on Dependable Computing,7,A5,LADC
+CE-Geoinformática,LAGIRS,Top 20,NA,IEEE Latin American GRSS & ISPRS Remote Sensing Conference,NA,A6,LAGIRS
+CE-ACO,LAGOS,Eventos da Área,NA,"Latin-American Algorithms, Graphs and Optimization Symposium",NA,A8,LAGOS
+CE-IE,LAK,Top 10,NA,International Learning Analytics and Knowledge Conference,46,A1,LAK
+CE-RESD,LANC,Eventos da Área,NA,Latin American Networking Conference,NA,A8,LANC
+CE-RESD,LANMAN,Eventos da Área,NA,IEEE International Symposium on Local and Metropolitan Area Networks,NA,A8,LANMAN
+CE-RESD,LANOMS,Eventos da Área,NA,Latin American Network Operations and Management Symposium,NA,A8,LANOMS
+CE-GRAPI,LARS,Eventos da Área,19,IEEE Latin American Robotics Symposium,NA,A5,LARS
+CE-CCI,LASCAS,Top 10,NA,IEEE Latin American Symposium on Circuits and Systems,15,A3,LASCAS
+CE-ACO,LATIN,Top 10,NA,Latin American Theoretical Informatics Symposium,15,A3,LATIN
+CE-RESD,LATINCLOUD,Eventos da Área,NA,IEEE Latin America Conference on Cloud Computing and Communications,NA,A8,LATINCLOUD
+CE-RESD,LATINCOM,Eventos da Área,NA,IEEE Latin-American Conference on Communications,12,A5,LATINCOM
+CE-SEG,LATINCRYPT,Eventos da Área,NA,International Conference on Cryptology and Information Security in Latin America,NA,A8,LATINCRYPT
+CE-CCI,LATS,Top 20,NA,IEEE Latin American Test Symposium,12,A4,LATS
+CE-PLN,LAW,Top 20,NA,Linguistic Annotation Workshop,NA,A6,LAW
+CE-ACO,LAWCG,Eventos da Área,NA,Latin American Workshop on Cliques in Graphs,NA,A8,LAWCG
+CE-RESD,LCN,Eventos da Área,NA,IEEE Conference on Local Computer Networks,23,A3,LCN
+CE-LP,LCTES,Top 20,NA,"ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems",NA,A6,LCTES
+CE-ESC,LCTRTS,Eventos da Área,NA,"ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Real-Time Systems",NA,A8,LCTRTS
+CE-RV,LDAV,Top 20,NA,IEEE Symposium on Large Data Analysis and Visualization,NA,A6,LDAV
+GI-L,LICS,TOP 10,NA,ACM/IEEE Symposium on Logic in Computer Science,32,A2,LICS
+GI-L,LMCS,TOP 20,NA,Logical Methods in Computer Science,28,A2,LMCS
+CE-PLN,LREC,Top 10,NA,International Conference on Language Resources and Evaluation,68,A1,LREC
+GI-L,LSFA,TOP 10,NA,"International Workshop on Logical and Semantic Frameworks, with Applications",NA,A5,LSFA
+CE-ES,Latinoware,Eventos da Área,NA,Congresso Latino-Americano de Software Livre e Tecnologias Abertas,NA,A8,LATINOWARE
+CE-Geoinformática,LoPaS,Eventos da Área,NA,Location Privacy and Security Workshop,NA,A8,LOPAS
+CE-Geoinformática,LocWeb,Top 20,NA,International Workshop on Location and the Web,NA,A6,LOCWEB
+CE-Geoinformática,LocalRec,Eventos da Área,NA,"International Workshop on Location-Based Recommendations, Geosocial Networks and Geoadvertising",NA,A8,LOCALREC
+CE-RESD,MASCOTS,Eventos da Área,NA,"International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",16,A4,MASCOTS
+CE-RESD,MASS,Eventos da Área,NA,IEEE International Conference on Mobile Adhoc and Sensor Systems,21,A3,MASS
+CE-CM,MCM,Eventos da Área,NA,International Conference on Mathematics and Computation in Music,NA,A8,MCM
+CE-ACPAD,MCSoC,Eventos da Área,NA,International Symposium on Embedded Multicore/Many-core Systems-on-Chip,11,A6,MCSOC
+CE-BD,MDM,Eventos da Área,NA,IEEE International Conference on Mobile Data Management,19,A4,MDM
+CE-R,MED,Eventos da Área,NA,Mediterranean Conference on Control and Automation,19,A4,MED
+CE-SI,MEDES,Eventos da Área,NA,International Conference on Management of Emergent Digital EcoSystems,13,A5,MEDES
+CE-CAS,MEDINFO,Top 10,NA,World Congress on Medical and Health Informatics,35,A1,MEDINFO
+CE-RESD,MEDITCOM,Eventos da Área,NA,IEEE International Mediterranean Conference on Communications and Networking,15,A4,MEDITCOM
+CE-ESC,MESA,Eventos da Área,NA,IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications,9,A6,MESA
+CE-ACO,MFCS,Top 20,NA,International Symposium on Mathematical Foundations of Computer Science,20,A3,MFCS
+CE-R,MFI*,Eventos da Área,NA,IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems,NA,A8,MFI*
+CE-IA,MICAI,Eventos da Área,NA,Mexican International Conference on Artificial Intelligence,13,A5,MICAI
+CE-CAS,MICCAI,Top 10,NA,International Conference on Medical Image Computing and Computer Assisted Intervention,98,A1,MICCAI
+CE-ACPAD,MICRO,Top 10,NA,IEEE/ACM International Symposium on Microarchitecture,61,A1,MICRO
+CE-CAS,MIE,Top 20,NA,Medical Informatics Europe,35,A1,MIE
+CE-JOGOS,MIG,Top 10,NA,ACM Siggraph Conference on Motion in Games,17,A3,MIG
+CE-GRAPI,MLDM,Eventos da Área,NA,International Conference on Machine Learning and Data Mining in Pattern Recognition,NA,A8,MLDM
+CE-WEBMEDIA,MM,Top 10,NA,ACM Multimedia Conference,119,A1,MM
+CE-R,MMAR,Eventos da Área,NA,International Conference on Methods and Models in Automation and Robotics,15,A4,MMAR
+CE-WEBMEDIA,MMM,Top 20,NA,International Conference on Multimedia Modelling,26,A2,MMM
+CE-CM,MMRP,Top 20,NA,International Workshop on Multilayer Music Representation and Processing,NA,A6,MMRP
+CE-WEBMEDIA,MMSP,Eventos da Área,NA,International Workshop on Multimedia and Signal Processing,26,A2,MMSP
+CE-R,MNR,Eventos da Área,NA,Mostra Nacional de Robótica,NA,A8,MNR
+CE-RESD,MOBICOM,Top 10,NA,ACM/IEEE International Conference on Mobile Computing and Networking,57,A1,MOBICOM
+CE-RESD,MOBIHOC,Top 20,NA,ACM International Symposium on Mobile Ad Hoc Networking and Computing,25,A2,MOBIHOC
+CE-ES,MOBILESoft,Eventos da Área,NA,International Conference on Mobile Software Engineering and Systems,NA,A8,MOBILESOFT
+CE-RESD,MOBIWAC,Eventos da Área,NA,ACM International Symposium on Mobility Management and Wireless Access,NA,A8,MOBIWAC
+CE-ES,MODELS,Eventos da Área,NA,International Conference on Model Driven Engineering Languages and Systems,31,A2,MODELS
+CE-ES,MODRE,Eventos da Área,NA,International Model-Driven Requirements Engineering,NA,A8,MODRE
+CE-R,MRS*,Eventos da Área,NA,International Symposium on Multi-Robot and Multi-Agent Systems,NA,A8,MRS*
+CE-RESD,MSN,Eventos da Área,NA,International Conference on Mobile Ad-Hoc and Sensor Networks,19,A4,MSN
+CE-ES,MSR,Top 10,NA,Working Conference on Mining Software Repositories,46,A1,MSR
+CE-ES,MSSiS,Eventos da Área,5,Workshop deModelagem e Simulação de Sistemas Intensivos em Software,NA,A8,MSSIS
+CE-RESD,MSWIM,Eventos da Área,NA,"ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",19,A4,MSWIM
+CE-BD,MTSR,Eventos da Área,NA,International Conference on Metadata and Semantics Research,11,A6,MTSR
+CE-WEBMEDIA,MUM,Eventos da Área,NA,International Conference on Mobile and Ubiquitous Multimedia,19,A4,MUM
+CE-RV,MVA,Eventos da Área,NA,IAPR International Conference on Machine Vision Applications,18,A4,MVA
+CE-R,MVA*,Eventos da Área,NA,International Conference on Machine Vision Applications,NA,A8,MVA*
+CE-CCI,MWSCAS,Top 20,NA,International Midwest Symposium on Circuits and Systems,20,A3,MWSCAS
+CE-RESD,ManSDN/NFV,Eventos da Área,NA,International Workshop on Management of SDN and NFV Systems,NA,A8,MANSDN/NFV
+CE-RESD,MedComNet,Eventos da Área,NA,Mediterranean Communication and Computer Networking Conference,NA,A8,MEDCOMNET
+CE-WEBMEDIA,MoMM,Eventos da Área,NA,International Conference on Advances in Mobile Computing & Multimedia,9,A6,MOMM
+CE-RESD,MobiQuitous,Eventos da Área,NA,"International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services",NA,A8,MOBIQUITOUS
+CE-RESD,MobiSys,Top 10,NA,"Annual International Conference on Mobile Systems, Applications, and Services",40,A1,MOBISYS
+CE-IHC,MobileHCI,Top 10,NA,International Conference on Human-Computer Interaction with Mobile Devices and Services,NA,A5,MOBILEHCI
+CE-PLN,NAACL,Top 10,NA,North American Chapter of the Association for Computational Linguistics Annual Meeting,133,A1,NAACL
+CE-TF,NCA,Eventos da Área,NA,IEEE International Symposium on Network Computing and Applications,20,A3,NCA
+CE-SEG,NDSS,Top 10,NA,Network and Distributed System Security Symposium,78,A1,NDSS
+CE-RESD,NEW2AN,Eventos da Área,NA,"International Conference on Internet of Things, Smart Spaces, and Next Generation Networks and Systems",NA,A8,NEW2AN
+CE-CCI,NEWCAS,Top 20,NA,IEEE International New Circuits and Systems Conference,13,A4,NEWCAS
+CE-MF,NFM,Top 10,NA,NASA Formal Methods Symposium,20,A3,NFM
+CE-RESD,NFV-SDN,Eventos da Área,NA,IEEE Conference on Network Function Virtualization and Software Defined Networks,18,A4,NFV-SDN
+CE-CM,NIME,Top 10,NA,International Conference on New Interfaces for Musical Expression,NA,A5,NIME
+CE-IC,NIPS,Top 10,NA,Neural Information Processing Systems,NA,A5,NIPS
+CE-SI,NISS,Eventos da Área,NA,"International Conference on Networking, Information Systems & Security",18,A4,NISS
+CE-PLN,NLDB,Eventos da Área,NA,International Conference on Application of Natural Language to Information Systems,19,A4,NLDB
+CE-CCI,NOCS,Top 20,NA,ACM/IEEE International Symposium on Networks-on-Chip,0,NA,NOCS
+CE-RESD,NOF,Eventos da Área,NA,International Conference on Network of the Future,12,A5,NOF
+CE-RESD,NOMS,Eventos da Área,NA,IEEE/IFIP Network Operations and Management Symposium,33,A2,NOMS
+CE-CCI,NORCAS,Eventos da Área,NA,Nordic Circuits and Systems Conference,10,A6,NORCAS
+CE-RESD,NSDI,Top 10,NA,Networked Systems Design and Implementation,65,A1,NSDI
+CE-SEG,NSS,Eventos da Área,NA,Network and System Security,15,A4,NSS
+CE-SEG,NTMS,Eventos da Área,NA,"IFIP International Conference on New Technologies, Mobility and Security",27,A2,NTMS
+CE-RESD,NetSoft,Eventos da Área,NA,IEEE NetSoft Conference and Workshops,NA,A8,NETSOFT
+CE-RESD,NetSys,Eventos da Área,NA,International Conference on Networked Systems,12,A5,NETSYS
+CE-RESD,Networking,Top 20,NA,IFIP Networking Conference,NA,A6,NETWORKING
+CE-IA,NeurIPS,Top 10,NA,Neural Information Processing Systems,371,A1,NEURIPS
+CE-IHC,NordiCHI,Top 10,NA,Nordic Conference on Human-Computer Interaction,31,A2,NORDICHI
+CE-R,OCEAN,Eventos da Área,NA,IEEE Oceans Conference,22,A3,OCEAN
+CE-PLN,ONTOBRAS,Top 20,NA,Seminar on Ontology Research in Brazil,7,A6,ONTOBRAS
+CE-LP,OOPSLA,Top 10,NA,"Conference on Object-Oriented Programming Systems, Languages, and Applications",65,A1,OOPSLA
+CE-ACO,OP,Eventos da Área,NA,SIAM Conference on Optimization,NA,A8,OP
+CE-TF,OPODIS,Top 20,NA,International Conference on Principles of Distributed Systems,19,A3,OPODIS
+CE-TF,OSDI,Eventos da Área,NA,USENIX Symposium on Operating Systems Design and Implementation,68,A1,OSDI
+CE-ES,OSS,Eventos da Área,NA,International Conference on Open Source Systems,NA,A8,OSS
+CE-LP,Onward!,Eventos da Área,NA,Onward!,NA,A8,ONWARD!
+CE-ES,OpenScienSE,Eventos da Área,3,Workshop de Práticas de Ciência Aberta para Engenharia de Software,NA,A8,OPENSCIENSE
+CE-SC,OpenSym,Top 20,NA,International Symposium on Open Collaboration,NA,A6,OPENSYM
+CE-IHC,OzCHI,Top 20,NA,Australian Conference on Human-Computer Interaction,19,A3,OZCHI
+CE-BioComp,PACBB,Top 10,NA,International Conference on Practical Applications of Computational Biology & Bioinformatics,7,A5,PACBB
+CE-SI,PACIS,Eventos da Área,NA,Pacific Asia Conference on Information Systems,25,A2,PACIS
+CE-ACPAD,PACT,Eventos da Área,NA,International Conference on Parallel Computing Technologies,9,A6,PACT
+CE-ACPAD,PACTT,Top 20,NA,International Conference on Parallel Architectures and Compilation Techniques,23,A3,PACTT
+CE-IC,PAKDD,Top 20,NA,Pacific-Asia Conference on Knowledge Discovery and Data Mining,33,A2,PAKDD
+CE-RESD,PAM,Eventos da Área,NA,Passive and Active Network Measurement Conference,21,A3,PAM
+CE-CCI,PATMOS,Eventos da Área,NA,"International Workshop on Power and Timing Modeling, Optimization and Simulation",NA,A8,PATMOS
+CE-IHC,PDC,Top 20,NA,Participatory Design Conference,25,A2,PDC
+CE-ACPAD,PDCAT,Eventos da Área,NA,"International Conference on Parallel and Distributed Computing, Applications and Technologies",14,A5,PDCAT
+CE-ESC,PDES,Eventos da Área,NA,IFAC International Conference on Programmable Devices and Embedded Systems,NA,A8,PDES
+CE-ACPAD,PDP,Top 20,NA,"Euromicro International Conference on Parallel, Distributed and Network-Based Processing",22,A3,PDP
+CE-RESD,PE-WASUM,Eventos da Área,NA,"ACM International Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks",NA,A8,PE-WASUM
+CE-ESC,PECCS,Eventos da Área,NA,Pervasive and Embedded Computing and Communication Systems,0,NA,PECCS
+CE-RESD,PERCOM,Eventos da Área,NA,International Conference on Pervasive Computing and Communications,28,A2,PERCOM
+CE-IHC,PETRA,Eventos da Área,NA,ACM International Conference on PErvasive Technologies Related to Assistive Environments,NA,A8,PETRA
+CE-SEG,PETS,Top 20,NA,Privacy Enhancing Technologies Symposium,NA,A6,PETS
+CE-GRAPI,PG,Top 20,NA,Pacific Conference on Computer Graphics and Applications,NA,A6,PG
+CE-IA,PGM,Eventos da Área,NA,International Conference on Probabilistic Graphical Models,13,A5,PGM
+CE-RESD,PIMRC,Top 20,NA,"International Symposium on Personal, Indoor and Mobile Radio Communications",35,A1,PIMRC
+CE-SEG,PKC,Top 20,NA,International Conference on Practice and Theory in Public Key Cryptography,37,A1,PKC
+CE-Geoinformática,PLATIAL,Eventos da Área,NA,International Symposium on Platial Information Science,NA,A8,PLATIAL
+CE-LP,PLDI,Top 10,NA,SIGPLAN Conference on Programming Language Design and Implementation,51,A1,PLDI
+CE-ES,PLOP,Eventos da Área,NA,Conference on Pattern Languages of Programs,NA,A8,PLOP
+CE-RESD,PODC,Top 20,NA,ACM Symposium on Principles of Distributed Computing,31,A2,PODC
+CE-BD,PODS,Top 10,NA,Symposium on Principles of Database Systems,26,A2,PODS
+CE-LP,POPL,Top 10,NA,Symposium on Principles of Programming Languages,0,NA,POPL
+CE-ACPAD,PP,Eventos da Área,NA,SIAM Conference on Parallel Processing for Scientific Computing,NA,A8,PP
+CE-ACPAD,PPAM,Eventos da Área,NA,International Conference on Parallel Processing and Applied Mathematics,10,A6,PPAM
+CE-LP,PPDP,Top 20,NA,International Symposium on Principles and Practice of Declarative Programming,10,A5,PPDP
+CE-ACPAD,PPOPP,Top 10,NA,ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming,34,A2,PPOPP
+CE-TF,PRDC,Top 20,NA,Pacific Rim International Symposium on Dependable Computing,14,A4,PRDC
+CE-ES,PROFES,Top 20,NA,International Conference on Product-Focused Software Process Improvement,18,A3,PROFES
+CE-ES,PROMISE,Top 20,NA,International Conference on Predictive Models and Data Analytics in Software Engineering,NA,A6,PROMISE
+CE-PLN,PROPOR,Top 10,NA,International Conference on Computational Processing of the Portuguese Language,13,A3,PROPOR
+CE-BioComp,PSB,Top 10,NA,Pacific Symposium on Biocomputing,28,A2,PSB
+CE-SEG,PST,Eventos da Área,NA,"International Conference on Privacy, Security and Trust",18,A4,PST
+CE-GRAPI,PacificVis,Top 10,NA,IEEE Pacific Visualization Symposium,19,A3,PACIFICVIS
+CE-RESD,PerCom Workshops,Eventos da Área,NA,IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events,29,A2,PERCOM WORKSHOPS
+CE-CAS,PervasiveHealth,Top 10,NA,International Conference on Pervasive Computing Technologies for Healthcare,21,A3,PERVASIVEHEALTH
+CE-SI,PoEM,Eventos da Área,NA,IFIP WG 8.1 Working Conference on the Practice of Enterprise Modelling,14,A5,POEM
+CE-Geoinformática,PredictGIS,Eventos da Área,NA,International Workshop on Prediction of Human Mobility,NA,A8,PREDICTGIS
+CE-RESD,Q2SWinet,Eventos da Área,NA,ACM Symposium on QoS and Security for Wireless and Mobile Networks,NA,A8,Q2SWINET
+CE-ES,QRS,Eventos da Área,NA,"IEEE International Conference on Software Quality, Reliability, and Security",25,A2,QRS
+CE-ES,QUATIC,Eventos da Área,NA,International Conference on Quality of Information and Communications Technology,16,A4,QUATIC
+CE-WEBMEDIA,QoMEX,Top 20,NA,International Workshop on Quality of Multimedia Experience,30,A2,QOMEX
+CE-CCI,RADECS,Eventos da Área,NA,European Conference on Radiation and its Effects on Components and Systems,NA,A8,RADECS
+CE-R,RAHA,Eventos da Área,NA,IEEE Internacional Conference on Robotics and Automation for Humanitarian Applications,NA,A8,RAHA
+CE-SEG,RAID,Eventos da Área,NA,"International Symposium on Research in Attacks, Intrusions, and Defenses",28,A2,RAID
+CE-PLN,RANLP,Top 20,NA,International Conference on Recent Advances in Natural Language Processing,25,A2,RANLP
+CE-ESC,RCAR,Eventos da Área,NA,IEEE International Conference on Real-time Computing and Robotics,14,A5,RCAR
+CE-ES,RCIS,Eventos da Área,NA,International Conference on Research Challenges in Information Science,18,A4,RCIS
+CE-ES,RE,Eventos da Área,NA,IEEE International Requirements Engineering Conference,32,A2,RE
+CE-LP,REBLS,Eventos da Área,NA,Workshop on Reactive and Event-Based Languages and Systems,NA,A8,REBLS
+CE-BioComp,RECOMB,Top 10,NA,International Conference on Research in Computational Molecular Biology,0,NA,RECOMB
+CE-CCI,RECONFIG,Eventos da Área,NA,International Conference on Reconfigurable Computing and FPGAs,NA,A8,RECONFIG
+CE-ESC,RECOSOC,Eventos da Área,NA,International Symposium on Reconfigurable Communication-centric Systems-on-Chip,0,NA,RECOSOC
+CE-ES,REFSQ,Eventos da Área,NA,International Working Conference on Requirements Engineering: Foundations for Software Quality,20,A3,REFSQ
+CE-R,RITA,Eventos da Área,NA,International Conference on Robot Intelligence Technology and Applications,10,A6,RITA
+CE-IHC,RO-MAN,Top 20,NA,IEEE International Symposium on Robot and Human Interactive Communication,34,A2,RO-MAN
+CE-R,ROBIO,Top 20,NA,IEEE International Conference on Robotics and Biomimetics,21,A3,ROBIO
+CE-R,ROBOCUP,Top 20,NA,Robocup International Symposium,15,A3,ROBOCUP
+CE-R,ROBOT*,Eventos da Área,NA,Iberian Robotics Conference,NA,A8,ROBOT*
+CE-R,ROSE,Eventos da Área,NA,IEEE International Symposium on Robotic and Sensors Environments,NA,A8,ROSE
+CE-ESC,RSP,Eventos da Área,NA,IEEE International Symposium on Rapid System Prototyping,NA,A8,RSP
+CE-R,RSS,Top 10,NA,Robotics: Science and Systems,83,A1,RSS
+CE-ESC,RTAS,Top 10,NA,IEEE REAL-TIME AND EMBEDDED TECHNOLOGY AND APPLICATIONS SYMPOSIUM,28,A2,RTAS
+CE-ESC,RTCSA,Top 20,NA,International Conference on Embedded and Real-Time Computing Systems and Applications,16,A3,RTCSA
+CE-ESC,RTIS,Eventos da Área,NA,International Conference on Real Time Intelligent Systems,0,NA,RTIS
+CE-ESC,RTSS,Top 10,NA,Real-Time Systems Symposium,23,A3,RTSS
+CE-R,RoMoCo,Eventos da Área,NA,International Workshop on Robot Motion and Control,0,NA,ROMOCO
+CE-R,RoboSoft,Eventos da Área,NA,IEEE International Conference on Soft Robotics,31,A2,ROBOSOFT
+CE-SEG,S&P,Top 10,NA,IEEE Symposium on Security and Privacy,112,A1,S&P
+CE-ES,SAC,Eventos da Área,NA,ACM Symposium on Applied Computing,37,A1,SAC
+CE-IA,SACI,Eventos da Área,NA,IEEE International Symposium on Applied Computational Intelligence and Informatics,17,A4,SACI
+CE-SEG,SACMAT,Eventos da Área,NA,ACM Symposium on Access Control Models and Technologies,21,A3,SACMAT
+CE-SEG,SACRYPT,Eventos da Área,NA,Workshop on Selected Areas in Cryptography,NA,A8,SACRYPT
+CE-CCI,SAMOS,Eventos da Área,NA,"International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation",12,A5,SAMOS
+CE-ES,SANER,Top 10,NA,"IEEE International Conference on Software Analysis, Evolution and Reengineering",42,A1,SANER
+CE-CCI,SARNOFF,Eventos da Área,NA,IEEE Sarnoff Symposium,NA,A8,SARNOFF
+CE-LP,SAS,Top 20,NA,IEEE Sensors Applications Symposium,NA,A6,SAS
+CE-TF,SAST,Top 20,8,Brazilian Symposium on Systematic and Automated Software Testing,NA,A6,SAST
+GI-L,SAT,TOP 20,NA,International Conference on Theory and Applications of Satisfiability Testing,21,A3,SAT
+CE-ACPAD,SBAC-PAD,Top 10,35,International Symposium on Computer Architecture and High Performance Computing,14,A3,SBAC-PAD
+CE-RV,SBAI,Eventos da Área,NA,Simpósio Brasileiro de Automação Inteligente,4,A8,SBAI
+CE-R,SBAI*,Eventos da Área,NA,Simpósio Brasileiro de Automação Inteligente,NA,A8,SBAI*
+CE-Geoinformática,SBBD,Top 20,38,Simpósio Brasileiro de Banco de Dados,8,A4,SBBD
+CE-ES,SBCARS,Top 10,17,"Brazilian Symposium on Components, Architectures and Reuse Software",NA,A5,SBCARS
+CE-CAS,SBCAS,Top 20,24,Simpósio Brasileiro de Computação Aplicada à Saúde,7,A4,SBCAS
+CE-CCI,SBCCI,Top 20,33,Symposium on Integrated Circuits and Systems Design,10,A4,SBCCI
+CE-CM,SBCM,Top 10,18,Simpósio Brasileiro de Computação Musical,6,A5,SBCM
+CE-WEBMEDIA,SBCUP,Eventos da Área,16,Simpósio Brasileiro de Computação Ubíqua e Pervasiva,4,A5,SBCUP
+CE-ES,SBES,Top 10,37,Brazilian Symposium on Software Engineering,23,A3,SBES
+CE-ESC,SBESC,Top 10,13,Brazilian Symposium on Computing Systems Engineering,10,A4,SBESC
+CE-JOGOS,SBGames,Top 10,22,Simpósio Brasileiro de Jogos e Entretenimento Digital,NA,A4,SBGAMES
+CE-JOGOS,SBGames*,Top 20,NA,Anais Estendidos do Simpósio Brasileiro de Jogos e Entretenimento Digital,10,A5,SBGAMES*
+CE-IE,SBIE,Top 10,34,Simpósio Brasileiro de Informática na Educação,16,A3,SBIE
+CE-LP,SBLP,Top 10,27,Brazilian Symposium on Programming Languages,NA,A4,SBLP
+CE-MF,SBMF,Top 10,26,Brazilian Symposium on Formal Methods,NA,A4,SBMF
+CE-CCI,SBMicro,Eventos da Área,NA,Symposium on Microelectronics Technology and Devices,NA,A8,SBMICRO
+CE-ACO,SBPO,Eventos da Área,NA,Simpósio Brasileiro de Pesquisa Operacional,NA,A8,SBPO
+CE-ES,SBQS,Top 10,22,Simpósio Brasileiro de Qualidade de Software,12,A3,SBQS
+CE-GRAPI,SBR,Eventos da Área,14,Brazilian Symposium on Robotics,NA,A5,SBR
+CE-R,SBR/LARS,Top 20,NA,Latin American Robotics Symposium,NA,A6,SBR/LARS
+CE-RESD,SBRC,Top 20,41,Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos,8,A4,SBRC
+CE-SC,SBSC,Top 10,19,Simpósio Brasileiro de Sistemas Colaborativos,NA,A5,SBSC
+CE-SI,SBSI,Top 10,19,Simpósio Brasileiro de Sistemas de Informação,11,A4,SBSI
+CE-Geoinformática,SBSR,Top 20,NA,Simpósio Brasileiro de Sensoriamento Remoto,NA,A6,SBSR
+CE-SEG,SBSeg,Top 20,23,Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais,6,A4,SBSEG
+CE-SI,SBTI,Eventos da Área,NA,Simpósio Brasileiro de Tecnologia da Informação,NA,A8,SBTI
+CE-RESD,SBrT,Eventos da Área,NA,Simpósio Brasileiro de Telecomunicações e Processamento de Sinais,NA,A8,SBRT
+CE-ACPAD,SC,Top 10,NA,"International Conference for High Performance Computing, Networking, Storage and Analysis",50,A1,SC
+CE-GRAPI,SCA,Top 20,NA,ACM SIGGRAPH/Eurographics Symposium on Computer Animation,NA,A6,SCA
+CE-ES,SCAM,Top 20,NA,IEEE International Working Conference on Source Code Analysis and Manipulation,16,A3,SCAM
+CE-LP,SCOPES,Eventos da Área,NA,Software and Compilers for Embedded Systems,NA,A8,SCOPES
+CE-IA,SCS,Eventos da Área,NA,Symposium on Combinatorial Search,21,A3,SCS
+CE-IC,SDM,Top 20,NA,SIAM International Conference on Data Mining,37,A1,SDM
+CE-Geoinformática,SDSS,Top 10,NA,Spatial Data Science Symposium,NA,A5,SDSS
+CE-ACO,SEA,Top 20,NA,International Symposium on Experimental Algorithms,16,A3,SEA
+CE-ES,SEAA,Eventos da Área,NA,Euromicro Conference on Software Engineering and Advanced Applications,25,A2,SEAA
+CE-ES,SEAMS,Eventos da Área,NA,International Symposium on Software Engineering for Adaptive and Self-Managing Systems,21,A3,SEAMS
+CE-SEG,SEC,Eventos da Área,NA,International Conference on ICT Systems Security and Privacy Protection,18,A4,SEC
+CE-RESD,SECON,Eventos da Área,NA,"IEEE International Conference on Sensing, Communication and Networking",27,A2,SECON
+CE-SEG,SECRYPT,Eventos da Área,NA,International Conference on Security and Cryptography,13,A5,SECRYPT
+CE-MF,SEFM,Top 10,NA,International Conference on Software Engineering and Formal Methods,17,A3,SEFM
+CE-ES,SEH,Eventos da Área,NA,International Workshop on Software Engineering in Healthcare,NA,A8,SEH
+CE-ES,SEKE,Eventos da Área,NA,International Conference on Software Engineering and Knowledge Engineering,14,A5,SEKE
+CE-PLN,SEMEVAL,Top 20,NA,International Workshop on Semantic Evaluation,46,A1,SEMEVAL
+CE-IHC,SEMISH,Eventos da Área,51,Seminário Integrado de Software e Hardware,5,A4,SEMISH
+CE-CCI,SENSORNETS,Eventos da Área,NA,International Conference on Sensor Networks,9,A6,SENSORNETS
+CE-ES,SER&IP,Eventos da Área,NA,IEEE/ACM International Workshop on Software Engineering Research and Industrial Practice,NA,A8,SER&IP
+CE-ES,SESoS,Eventos da Área,NA,International Workshop on Software Engineering for Systems-of-Systems,NA,A8,SESOS
+CE-RV,SI3D,Top 20,NA,Symposium on Interactive 3D Graphics and Games,NA,A6,SI3D
+CE-GRAPI,SIBGRAPI,Top 10,36,"Conference on Graphics, Patterns and Images",25,A2,SIBGRAPI
+CE-ESC,SIES,Eventos da Área,NA,International Symposium on Industrial Embedded Systems,0,NA,SIES
+CE-RESD,SIGCOMM,Top 10,NA,ACM SIGCOMM Conference,64,A1,SIGCOMM
+CE-RV,SIGCSE,Eventos da Área,NA,ACM Technical Symposium on Computer Science Education,47,A1,SIGCSE
+CE-PLN,SIGDIAL,Eventos da Área,NA,Annual Meeting of the Special Interest Group on Discourse and Dialogue,31,A2,SIGDIAL
+CE-IHC,SIGDOC,Eventos da Área,NA,ACM International Conference on Design of Communication,12,A5,SIGDOC
+CE-GRAPI,SIGGRAPH,Top 10,NA,International Conference and Exibition on Computer Graphics and Interactive Techniques,23,A3,SIGGRAPH
+CE-GRAPI,SIGGRAPH Asia,Top 10,NA,ACM International Conference On Computer Graphics & Interactive Techniques / Asia,37,A1,SIGGRAPH ASIA
+CE-PLN,SIGIR,Eventos da Área,NA,International ACM SIGIR Conference on Research and Development in Information Retrieval,123,A1,SIGIR
+CE-ACPAD,SIGKDD,Eventos da Área,NA,ACM International Conference on Knowledge Discovery and Data Mining,129,A1,SIGKDD
+CE-RESD,SIGMETRICS,Eventos da Área,NA,International Conference on Measurement and Modeling of Computer Systems,41,A1,SIGMETRICS
+CE-BD,SIGMOD,Top 10,NA,ACM Conference on Management of Data,74,A1,SIGMOD
+CE-Geoinformática,SIGSPATIAL,Top 10,NA,ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems,27,A2,SIGSPATIAL
+CE-R,SII,Eventos da Área,NA,IEEE/SICE International Symposium on System Integration,20,A3,SII
+CE-BD,SIMBig,Eventos da Área,NA,Annual International Symposium on Information Management and Big Data,8,A7,SIMBIG
+CE-R,SIMPAR*,Eventos da Área,NA,"IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots",NA,A8,SIMPAR*
+CE-GRAPI,SIPAIM,Eventos da Área,NA,International Symposium on Medical Information Processing and Analysis,13,A5,SIPAIM
+CE-BD,SISAP,Eventos da Área,NA,nternational Conference on Similarity Search and Applications,NA,A8,SISAP
+CE-LP,SLE,Top 20,NA,ACM SIGPLAN International Conference on Software Language Engineering,12,A4,SLE
+CE-SI,SMC,Top 20,NA,"IEEE International Conference on Systems, Man and Cybernetics",36,A1,SMC
+CE-BD,SNAA,Eventos da Área,NA,Workshop on Social Network Analysis in Applications,NA,A8,SNAA
+CE-SI,SOCINFO,Eventos da Área,NA,International Conference on Social Informatics,NA,A8,SOCINFO
+CE-ACO,SODA,Top 10,NA,ACM-SIAM Symposium on Discrete Algorithms,57,A1,SODA
+CE-ACO,SOFSEM,Eventos da Área,NA,International Conference on Current Trends in Theory and Practice of Computer Science,NA,A8,SOFSEM
+CE-ACO,SOSA,Eventos da Área,NA,SIAM Symposium on Simplicity in Algorithms,NA,A8,SOSA
+CE-RESD,SOSP,Eventos da Área,NA,ACM Symposium on Operating Systems Principles,NA,A8,SOSP
+CE-RESD,SOSR,Eventos da Área,NA,Symposium on Software Defined Networking Research,NA,A8,SOSR
+CE-SEG,SOUPS,Top 20,NA,Symposium On Usable Privacy and Security,38,A1,SOUPS
+CE-ACPAD,SPAA,Top 20,NA,ACM Symposium on Parallelism in Algorithms and Architectures,24,A3,SPAA
+CE-GRAPI,SPIE Conferences,Eventos da Área,NA,Proceedings of Spie--the International Society for Optical Engineering,26,A2,SPIE CONFERENCES
+CE-BD,SPIRE,Eventos da Área,NA,International Symposium on String Processing and Information Retrieval,13,A5,SPIRE
+CE-ES,SPLC,Eventos da Área,NA,International Software Product Line Conference,25,A2,SPLC
+CE-TF,SRDS,Top 10,NA,IEEE Symposium on Reliable Distributed Systems,20,A3,SRDS
+CE-ES,SSBSE,Eventos da Área,NA,International Symposium on Search Based Software Engineering,NA,A8,SSBSE
+CE-ACPAD,SSCAD,Top 10,24,Simpósio em Sistemas Computacionais de Alto Desempenho,NA,A4,SSCAD
+CE-SEG,SSCC,Eventos da Área,NA,International Symposium on Security in Computing and Communications,NA,A8,SSCC
+CE-IC,SSCI,Eventos da Área,NA,IEEE Symposium Series on Computational Intelligence,33,A2,SSCI
+CE-Geoinformática,SSDBM,Top 10,NA,International Conference on Scientific and Statistical Database Management,15,A3,SSDBM
+CE-SI,SSE,Eventos da Área,NA,IEEE International Conference on Software Services Engineering (IEEE SSE),NA,A8,SSE
+CE-R,SSRR,Top 20,NA,"International Symposium on Safety, Security and Rescue Robotics",20,A3,SSRR
+CE-Geoinformática,SSTD,Top 20,NA,International Symposium on Spatial and Temporal Databases,NA,A6,SSTD
+CE-ACO,STACS,Top 10,NA,Symposium on Theoretical Aspects of Computer Science,24,A3,STACS
+CE-PLN,STIL,Top 10,14,Brazilian Symposium in Information and Human Language Technology,NA,A5,STIL
+CE-ACO,STOC,Top 10,NA,ACM Symposium on Theory of Computing,63,A1,STOC
+CE-RV,SUI,Top 10,NA,Symposium on Spatial User Interaction,18,A3,SUI
+CE-RV,SVR,Top 10,25,Symposium on Virtual and Augmented Reality,15,A3,SVR
+CE-ACO,SWAT,Eventos da Área,NA,Scandinavian Workshop on Algorithm Theory,11,A6,SWAT
+CE-ES,SWQD,Eventos da Área,NA,Conference Software Quality Days,NA,A8,SWQD
+CE-CM,SYSMUS,Eventos da Área,NA,International Conference of Students of Systematic Musicology,NA,A8,SYSMUS
+CE-TF,SYSTOL,Top 20,NA,Conference on Control and Fault-Tolerant Systems,9,A5,SYSTOL
+CE-Geoinformática,SeCoGIS,Top 20,NA,Workshop on Semantic and Conceptual Issues in Geographic Information Systems,NA,A6,SECOGIS
+CE-JOGOS,SeGAH,Top 10,NA,IEEE International Conference on Serious Games and Applications for Health,NA,A5,SEGAH
+CE-RESD,SenSys,Top 20,NA,ACM Conference on Embedded Network Sensor Systems,42,A1,SENSYS
+CE-CCI,Sforum,Eventos da Área,NA,Microelectronics Student Forum,NA,A8,SFORUM
+CE-RESD,SmartGridComm,Eventos da Área,NA,IEEE International Conference on Smart Grid Communications,NA,A8,SMARTGRIDCOMM
+CE-ACO,SoCG,Top 20,NA,International Symposium on Computational Geometry,24,A3,SOCG
+CE-SI,SoSE,Top 10,NA,IEEE International Conference on Systems of Systems Engineering,NA,A5,SOSE
+CE-SI,SoWeMi,Eventos da Área,NA,International Workshop on Mining the Social Web,NA,A8,SOWEMI
+CE-RESD,SoftCOM,Eventos da Área,NA,"International Conference on Software, Telecommunications and Computer Networks",NA,A8,SOFTCOM
+CE-Geoinformática,SpatialBigData,Eventos da Área,NA,Spatial Big Data and Machine Learning in GIScience,NA,A8,SPATIALBIGDATA
+CE-IHC,SustainIT,Eventos da Área,NA,Conference on Sustainable Internet and ICT for Sustainability,NA,A8,SUSTAINIT
+CE-IE,T4E,Eventos da Área,NA,International conference on Technology 4 Education,NA,A8,T4E
+GI-L,TABLEAUX,TOP 10,NA,International Conference on Automated Reasoning with Analytic Tableaux and Related Methods,NA,A5,TABLEAUX
+CE-PLN,TAC,Top 20,NA,Text Analysis Conference,NA,A6,TAC
+CE-MF,TACAS,Top 10,NA,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,0,NA,TACAS
+CE-R,TAROS,Eventos da Área,NA,Conference Towards Autonomous Robotics Systems,15,A4,TAROS
+CE-MF,TASE,Top 20,NA,Theoretical Aspects of Software Engineering,10,A5,TASE
+CE-SEG,TCC,Top 20,NA,Theory of Cryptography,35,A1,TCC
+CE-IE,TECH-EDU,Eventos da Área,NA,"International Conference on Technology and Innovation in Learning, Teaching and Education",NA,A8,TECH-EDU
+CE-IHC,TEI,Top 20,NA,"International Conference on Tangible, Embedded and Embodied Interaction",31,A2,TEI
+CE-CM,TIMBRE,Eventos da Área,NA,Interdisciplinary Workshop on Timbre,NA,A8,TIMBRE
+CE-IE,TISE,Eventos da Área,NA,Congreso Internacional de Informática Educativa,NA,A8,TISE
+CE-PLN,TREC,Eventos da Área,NA,Text Retrieval Conference,17,A4,TREC
+CE-PLN,TSD,Top 20,NA,"International Conference on Text, Speech and Dialogue",18,A3,TSD
+CE-IHC,TVX,Eventos da Área,NA,ACM International Conference on Interactive Experiences for TV and Online Video,NA,A8,TVX
+CE-ES,TechDebt,Top 20,NA,International Conference on Technical Debt,NA,A6,TECHDEBT
+CE-SEG,TrustCom,Top 20,NA,"International Conference on Trust, Security and Privacy in Computing and Communications",NA,A6,TRUSTCOM
+CE-IHC,UAHCI,Eventos da Área,NA,International Conference Universal Access in Human-Computer Interaction,NA,A8,UAHCI
+CE-IC,UAI,Top 20,NA,Conference on Uncertainty in Artificial Intelligence,56,A1,UAI
+CE-CM,UBIMUS,Eventos da Área,NA,Workshop de Música Ubíqua,NA,A8,UBIMUS
+CE-ACPAD,UCC,Eventos da Área,NA,IEEE/ACM International Conference on Utility and Cloud Computing,23,A3,UCC
+CE-IHC,UIST,Top 10,NA,ACM User Interface Software Technology Symposium,53,A1,UIST
+CE-IHC,UMAP,Eventos da Área,NA,"International Conference on User Modeling, Adaptation and Personalization",33,A2,UMAP
+CE-R,UR,Eventos da Área,NA,International Conference on Ubiquitous Robots and Ambient Intelligence,0,NA,UR
+CE-TF,USENIX,Eventos da Área,NA,USENIX Annual Technical Conference,NA,A8,USENIX
+CE-SEG,USENIX Security,Top 10,NA,USENIX Security Symposium,116,A1,USENIX SECURITY
+CE-RV,USIHC,Eventos da Área,NA,Congresso Internacional de Ergonomia e Usabilidade de Interfaces Humano Computador,NA,A8,USIHC
+CE-IHC,VECIMS/CIVEMSA,Eventos da Área,NA,IEEE International Conference on Virtual Environments Human-Computer Interfaces and Measurement Systems,14,A5,VECIMS/CIVEMSA
+CE-LP,VEE,Top 20,NA,International Conference on Virtual Execution Environments,NA,A6,VEE
+CE-ES,VEM,Top 20,11,"Workshop on Software Visualization, Evolution and Maintenance",NA,A5,VEM
+CE-RV,VISAPP,Top 20,NA,International Conference on Computer Vision Theory and Applications,31,A2,VISAPP
+CE-IHC,VISSOFT,Eventos da Área,NA,IEEE Working Conference on Software Visualization,NA,A8,VISSOFT
+CE-IHC,VL/HCC,Eventos da Área,NA,IEEE Symposium on Visual Languages and Human-Centric Computing,NA,A8,VL/HCC
+CE-BD,VLDB,Top 10,NA,International Conference on Very Large Data Bases,90,A1,VLDB
+CE-ES,VLHCC,Eventos da Área,NA,IEEE Symposium on Visual Languages and Human-Centric Computing,19,A4,VLHCC
+CE-CCI,VLSI-DAT,Eventos da Área,NA,"International Symposium on VLSI Design, Automation and Test",12,A5,VLSI-DAT
+CE-CCI,VLSI-SOC,Top 10,NA,IEEE/IFIP International Conference on VLSI and System-on-Chip,14,A3,VLSI-SOC
+CE-CCI,VLSID,Eventos da Área,NA,International Conference on VLSI Design,15,A4,VLSID
+CE-RV,VMV,Eventos da Área,NA,"Vision, Modeling & Visualization",NA,A8,VMV
+CE-RESD,VNC,Eventos da Área,NA,IEEE Vehicular Networking Conference,20,A3,VNC
+CE-RV,VR,Top 10,NA,IEEE Virtual Reality Conference,52,A1,VR
+CE-RV,VRCAI,Top 10,NA,International Conference on Virtual Reality Continuum and its Applications,16,A3,VRCAI
+CE-RV,VRST,Top 10,NA,ACM Symposium on Virtual Reality Software and Technology,27,A2,VRST
+CE-JOGOS,VS-Games,Top 20,NA,International Conference on Virtual Worlds and Games for Serious Applications,15,A3,VS-GAMES
+CE-GRAPI,VTC,Eventos da Área,NA,Vehicular Technology Conference,46,A1,VTC
+CE-CCI,VTS,Eventos da Área,NA,IEEE VLSI Test Symposium,18,A4,VTS
+CE-ES,VaMoS,Top 20,NA,International Workshop on Variability Modelling of Software-intensive Systems,NA,A6,VAMOS
+CE-JOGOS,Videojogos,Eventos da Área,NA,Conference on Videogame Sciences and Arts,NA,A8,VIDEOJOGOS
+CE-IHC,W4A,Eventos da Área,NA,Conference on Web Accessibility,18,A4,W4A
+CE-BioComp,WABI,Top 10,NA,Workshop on Algorithms in Bioinformatics,13,A3,WABI
+CE-CM,WAC,Top 20,NA,Web Audio Conference,NA,A6,WAC
+CE-GRAPI,WACV,Eventos da Área,NA,Workshop on Applications of Computer Vision,131,A1,WACV
+CE-ACO,WADS,Top 20,NA,Algorithms and Data Structures Symposium,14,A4,WADS
+CE-R,WAFR*,Top 20,NA,Workshop on the Algorithmic Foundations of Robotics,NA,A6,WAFR*
+CE-IHC,WAIHCWS,Eventos da Área,14,Workshop sobre Aspectos da Interação Humano-Computador para a Web Social,NA,A5,WAIHCWS
+CE-ACO,WALCOM,Eventos da Área,NA,International Workshop on Algorithms and Computation,11,A6,WALCOM
+CE-ACO,WAOA,Eventos da Área,NA,Workshop on Approximation and Online Algorithms,NA,A8,WAOA
+CE-SI,WASHES,Top 10,9,"Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software",NA,A5,WASHES
+CE-CM,WASPAA,Top 10,NA,IEEE Workshop on Applications of Signal Processing to Audio and Acoustics,NA,A5,WASPAA
+GI-L,WBL,Eventos da área,5,Workshop Brasileiro de Lógica,NA,A8,WBL
+CE-ES,WBMA,Eventos da Área,NA,Workshop Brasileiro de Métodos Ágeis,NA,A8,WBMA
+CE-SI,WCAMA,Eventos da Área,15,Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais,NA,A5,WCAMA
+CE-CCI,WCAS,Eventos da Área,NA,Workshop on Circuits and Systems Design,NA,A8,WCAS
+CE-IE,WCCE,Eventos da Área,NA,IFIP World Conference on Computers in Education,NA,A8,WCCE
+CE-SI,WCGE,Eventos da Área,12,Workshop de Computação Aplicada ao Governo Eletrônico,NA,A5,WCGE
+CE-ESC,WCNC,Eventos da Área,NA,IEEE Wireless Communications and Networking Conference,NA,A8,WCNC
+CE-RESD,WCNCW,Eventos da Área,NA,IEEE Wireless Communications and Networking Conference Workshops,26,A2,WCNCW
+CE-RESD,WD,Eventos da Área,NA,Wireless Days Conference,18,A4,WD
+CE-ES,WDES,Eventos da Área,NA,"Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems",NA,A8,WDES
+CE-BD,WEBIST,Top 20,NA,International Conference on Web Information Systems and Technologies,14,A4,WEBIST
+CE-SI,WEBSCI,Eventos da Área,NA,ACM Web Science Conference,34,A2,WEBSCI
+CE-EDUCOMP,WEI,TOP10,32,Workshop sobre Educação em Computação,11,A4,WEI
+CE-IHC,WEIHC,Eventos da Área,13,Workshop sobre Educação em IHC,NA,A5,WEIHC
+CE-ES,WER,Top 20,NA,Workshop on Requirements Engineering,7,A6,WER
+CE-SI,WESAAC,Eventos da Área,NA,"Workshop-School on Agents, Environments, and Applications",NA,A8,WESAAC
+CE-ACPAD,WETICE,Eventos da Área,NA,IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises,16,A4,WETICE
+CE-ESC,WF-IoT,Top 20,NA,IEEE World Forum on Internet of Things,38,A1,WF-IOT
+CE-ESC,WFCS,Eventos da Área,NA,IEEE World Conference on Factory Communication Systems,18,A4,WFCS
+CE-ACO,WG,Top 10,NA,International Workshop on Graph-Theoretic Concepts in Computer Science,15,A3,WG
+CE-R,WHC*,Eventos da Área,NA,Australasian Conference on Robotics and Automation,NA,A8,WHC*
+CE-GRAPI,WHISPERS,Eventos da Área,NA,Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing,17,A4,WHISPERS
+CE-ES,WICSA,Eventos da Área,NA,Working IEEE/IFIP Conference on Software Architecture,30,A2,WICSA
+CE-IHC,WIDE,Eventos da Área,2,Workshop on Interactions with Human Experiences,NA,A8,WIDE
+CE-IE,WIE,Top 10,28,Workshop de Informática na Escola,11,A4,WIE
+CE-GRAPI,WIFS,Eventos da Área,NA,IEEE Workshop on Information Forensics and Security,22,A3,WIFS
+CE-IHC,WIPLAY,Eventos da Área,NA,Workshop sobre Interação e Pesquisa de Usuários no Desenvolvimento de Jogos,NA,A8,WIPLAY
+CE-WEBMEDIA,WISE,Top 20,NA,International Conference on Web Information Systems Engineering,18,A3,WISE
+CE-SEG,WISEC,Eventos da Área,NA,ACM Conference on Security & Privacy in Wireless and Mobile Networks,NA,A8,WISEC
+CE-RESD,WMNC,Eventos da Área,NA,Joint IFIP Wireless and Mobile Networking Conference,NA,A8,WMNC
+CE-RESD,WOCC,Eventos da Área,NA,Wireless and Optical Communications Conference,18,A4,WOCC
+CE-RESD,WONS,Eventos da Área,NA,Wireless On-demand Network systems and Services Conference,NA,A8,WONS
+CE-SEG,WPES,Eventos da Área,NA,Annual ACM workshop on Privacy in the electronic society,NA,A8,WPES
+CE-R,WRC,Eventos da Área,NA,World Robot Conference,NA,A8,WRC
+CE-RV,WRVA,Eventos da Área,NA,Workshop de Realidade Virtual e Aumentada,NA,A8,WRVA
+CE-RV,WSCG,Eventos da Área,NA,International Conference in Central Europe on Computer Graphics and Visualization and Computer Vision,NA,A8,WSCG
+CE-IA,WSDM,Top 20,NA,ACM Conference International Conference on Web Search and Data Mining,86,A1,WSDM
+CE-TF,WTF,Eventos da Área,25,Workshop de Testes e Tolerância a Falhas,NA,A4,WTF
+CE-GRAPI,WVC,Top 20,NA,Workshop de Visão Computacional,NA,A6,WVC
+CE-RESD,WWIC,Eventos da Área,NA,International Conference on Wired & Wireless Internet Communications,NA,A8,WWIC
+CE-WEBMEDIA,WWW,Top 10,NA,International World Wide Web Conferences,120,A1,WWW
+CE-RV,Web3D,Top 10,NA,International Conference on 3D Web Technology,NA,A5,WEB3D
+CE-WEBMEDIA,Web4All,Top 20,NA,International Web for All Conference,NA,A6,WEB4ALL
+CE-RESD,WiMob,Eventos da Área,NA,"IEEE International Conference on Wireless and Mobile Computing, Networking and Communications",NA,A8,WIMOB
+CE-RESD,WiOpt,Eventos da Área,NA,"International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks",21,A3,WIOPT
+CE-EDUCOMP,WiPCSE,TOP10,NA,Workshop in Primary and Secondary Computing Education,NA,A8,WIPCSE
+CE-RESD,WoWMoM,Eventos da Área,NA,"International Symposium on a World of Wireless, Mobile and Multimedia Networks",NA,A8,WOWMOM
+CE-ES,XP,Eventos da Área,NA,International Conference on Agile Software Development,26,A2,XP
+CE-SI,ic-ETITE,Eventos da Área,NA,International Conference on Emerging Trends in Information Technology and Engineering,31,A2,IC-ETITE
+CE-ACPAD,BIGDATA,Eventos da Área,NA,IEEE International Conference on Big Data,55,A1,NA
+CE-ACPAD,CCGRID,Top 10,NA,"IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing",30,A2,NA
+CE-BD,CLOUDCOM,Eventos da Área,NA,IEEE International Conference on Cloud Computing Technology and Science,17,A4,NA
+CE-BD,ESCIENCE,Top 10,NA,IEEE International Conference on e-Science,16,A3,NA
+CE-BD,GEOINFO,Top 10,NA,Brazilian Symposium on GeoInformatics,NA,A5,NA
+CE-BD,SOCC,Eventos da Área,NA,IEEE International System-on-Chip Conference,13,A5,NA
+CE-EDUCOMP,ITICSE,Top 10,NA,Joint Conference on Innovation and Technology in Computer Science Education,38,A1,NA
+CE-ES,CAISE,Top 10,NA,International Conference on Advanced Information Systems Engineering,27,A2,NA
+CE-ESC,EUROSYS,Top 10,NA,European Conference on Computer Systems,52,A1,NA
+CE-GRAPI,I3D,Top 10,NA,Symposium on Interactive 3D Graphics and Games,NA,A5,NA
+CE-IA,UBICOMP,Top 20,NA,ACM International Joint Conference on Pervasive and Ubiquitous Computing,29,A2,NA
+CE-IE,EDUCOMP,Top 10,4,Simpósio Brasileiro de Educação em Computação,11,A4,NA
+CE-IHC,ASSETS,Top 10,NA,International ACM Conference on Assistive Technologies (Assets),36,A1,NA
+CE-IHC,MMSYS,Top 10,NA,ACM Multimedia Systems Conference,33,A2,NA
+CE-IHC,WEBMEDIA,Top 10,29,Brazilian Symposium on Multimedia and the Web,13,A3,NA
+CE-PLN,BRASNAM,Top 20,13,Brazilian Workshop on Social Network Analysis and Mining,8,A5,NA
+CE-PLN,CICLING,Eventos da Área,NA,International Conference on Intelligent Text Processing and Computational Linguistics,NA,A8,NA
+CE-RESD,BLOCKCHAIN,Eventos da Área,NA,IEEE International Conference on Blockchain,42,A1,NA
+CE-RESD,HEALTHCOM,Top 10,NA,"IEEE International Conference on E-health Networking, Application & Services",10,A4,NA
+CE-RV,EUROHAPTICS,Top 20,NA,Eurohaptics,NA,A6,NA
+CE-SEG,SAFECOMP,Top 10,NA,"International Conference on Computer Safety, Reliability, and Security",23,A3,NA
+CE-SI,SOCIALCOM,Eventos da Área,NA,International Conference on Social Computing,8,A7,NA
+CE-TF,MIDDLEWARE,Top 10,NA,International Middleware Conference,24,A3,NA
+GI-L,WOLLIC,Top 10,NA,"Workshop on Logic, Language, Information and Computation",NA,A5,NA

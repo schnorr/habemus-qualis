@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Habemus Qualis – Conferências e Periódicos</title>
+  <style>
+    :root {
+      --accent: #2c6fad;
+      --bg: #f5f7fa;
+      --card: #ffffff;
+      --border: #dde3ea;
+      --text: #1a1a2e;
+      --muted: #6b7280;
+      --levels: {A1:"#1a6e2e",A2:"#2e7d32",A3:"#558b2f",A4:"#f57f17",A5:"#e65100",A6:"#b71c1c",A7:"#6a1a6a",A8:"#37474f"};
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    header {
+      background: var(--accent);
+      color: #fff;
+      padding: 1.5rem 2rem;
+    }
+    header h1 { font-size: 1.6rem; font-weight: 700; }
+    header p  { font-size: 0.95rem; opacity: 0.85; margin-top: 0.3rem; }
+    .container { max-width: 1200px; margin: 0 auto; padding: 1.5rem 1.5rem; }
+
+    .search-box {
+      display: flex;
+      gap: 0.75rem;
+      align-items: center;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,.06);
+    }
+    .search-box label { font-weight: 600; white-space: nowrap; }
+    .search-box input {
+      flex: 1;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.55rem 0.85rem;
+      font-size: 1rem;
+      outline: none;
+      transition: border-color .2s;
+    }
+    .search-box input:focus { border-color: var(--accent); }
+    .search-box .hint { font-size: 0.82rem; color: var(--muted); white-space: nowrap; }
+
+    .section-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      margin-bottom: 2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,.06);
+      overflow: hidden;
+    }
+    .section-card h2 {
+      padding: 0.9rem 1.25rem;
+      font-size: 1.1rem;
+      background: #eef3f9;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .section-card h2 .count {
+      margin-left: auto;
+      font-size: 0.8rem;
+      font-weight: 400;
+      color: var(--muted);
+    }
+
+    .table-wrap { overflow-x: auto; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+    }
+    thead th {
+      background: #f0f4f9;
+      padding: 0.6rem 0.9rem;
+      text-align: left;
+      font-weight: 600;
+      border-bottom: 2px solid var(--border);
+      white-space: nowrap;
+      cursor: pointer;
+      user-select: none;
+    }
+    thead th:hover { background: #e2eaf5; }
+    thead th .sort-icon { opacity: 0.4; margin-left: 4px; font-size: 0.75rem; }
+    thead th.sorted-asc  .sort-icon { opacity: 1; }
+    thead th.sorted-desc .sort-icon { opacity: 1; }
+    tbody tr:nth-child(even) { background: #f9fbfc; }
+    tbody tr:hover { background: #eef3fb; }
+    tbody td { padding: 0.5rem 0.9rem; border-bottom: 1px solid #eee; }
+
+    .nivel-badge {
+      display: inline-block;
+      padding: 0.15rem 0.55rem;
+      border-radius: 4px;
+      font-weight: 700;
+      font-size: 0.82rem;
+      color: #fff;
+    }
+    .n-A1 { background: #1a6e2e; }
+    .n-A2 { background: #2e7d32; }
+    .n-A3 { background: #558b2f; }
+    .n-A4 { background: #f57f17; }
+    .n-A5 { background: #e65100; }
+    .n-A6 { background: #b71c1c; }
+    .n-A7 { background: #6a1a6a; }
+    .n-A8 { background: #37474f; }
+
+    .pagination {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.25rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    .pagination button {
+      border: 1px solid var(--border);
+      background: var(--card);
+      border-radius: 5px;
+      padding: 0.3rem 0.7rem;
+      cursor: pointer;
+      font-size: 0.85rem;
+    }
+    .pagination button:hover:not(:disabled) { background: #eef3f9; }
+    .pagination button:disabled { opacity: 0.4; cursor: default; }
+    .pagination .page-info { margin: 0 0.5rem; }
+
+    .empty { padding: 1.5rem; text-align: center; color: var(--muted); font-style: italic; }
+    .loading { padding: 1.5rem; text-align: center; color: var(--muted); }
+
+    footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--muted);
+      padding: 1.5rem;
+      border-top: 1px solid var(--border);
+      margin-top: 1rem;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Habemus Qualis</h1>
+  <p>Classificação de conferências e periódicos em Computação – CAPES 2025–2028</p>
+</header>
+
+<div class="container">
+
+  <div class="search-box">
+    <label for="busca">🔍 Pesquisar:</label>
+    <input type="text" id="busca" placeholder="Nome, sigla, ISSN, nível…" autocomplete="off" />
+    <span class="hint">busca simultânea nas duas tabelas</span>
+  </div>
+
+  <!-- Conferências -->
+  <div class="section-card" id="card-conf">
+    <h2>📋 Conferências <span class="count" id="count-conf"></span></h2>
+    <div class="table-wrap">
+      <table id="tbl-conf">
+        <thead>
+          <tr>
+            <th data-col="sigla">Sigla <span class="sort-icon">⇅</span></th>
+            <th data-col="nome">Nome <span class="sort-icon">⇅</span></th>
+            <th data-col="CE">CE <span class="sort-icon">⇅</span></th>
+            <th data-col="top">Classificação SBC <span class="sort-icon">⇅</span></th>
+            <th data-col="h5">H5 <span class="sort-icon">⇅</span></th>
+            <th data-col="edicoes">Edições <span class="sort-icon">⇅</span></th>
+            <th data-col="NIVEL">Nível <span class="sort-icon">⇅</span></th>
+          </tr>
+        </thead>
+        <tbody id="body-conf"><tr><td colspan="7" class="loading">Carregando…</td></tr></tbody>
+      </table>
+    </div>
+    <div class="pagination" id="pag-conf"></div>
+  </div>
+
+  <!-- Revistas -->
+  <div class="section-card" id="card-rev">
+    <h2>📄 Periódicos <span class="count" id="count-rev"></span></h2>
+    <div class="table-wrap">
+      <table id="tbl-rev">
+        <thead>
+          <tr>
+            <th data-col="issn">ISSN <span class="sort-icon">⇅</span></th>
+            <th data-col="name">Nome <span class="sort-icon">⇅</span></th>
+            <th data-col="percentil">Percentil <span class="sort-icon">⇅</span></th>
+            <th data-col="NIVEL">Nível <span class="sort-icon">⇅</span></th>
+          </tr>
+        </thead>
+        <tbody id="body-rev"><tr><td colspan="4" class="loading">Carregando…</td></tr></tbody>
+      </table>
+    </div>
+    <div class="pagination" id="pag-rev"></div>
+  </div>
+
+</div>
+
+<footer>
+  Implementação engajada do algoritmo do
+  <a href="https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/areas-avaliacao/sobre-as-areas-de-avaliacao/colegio-de-ciencias-exatas-tecnologicas-e-multidisciplinar/ciencias-exatas-e-da-terra/COMPUTACAO_DOCAREA_2025_2028.pdf" target="_blank">Documento de Área CAPES/Computação 2025–2028</a>.
+  Distribuído "as is" sob a licença
+  <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GPLv3</a>.
+  Não nos responsabilizamos por esta classificação.
+  Consulte sempre as fontes oficiais da CAPES.
+</footer>
+
+<script>
+/* ─── Utilities ─────────────────────────────────────────────── */
+
+function nivelBadge(nivel) {
+  if (!nivel || nivel === 'NA') return '';
+  const cls = 'nivel-badge n-' + nivel;
+  return `<span class="${cls}">${nivel}</span>`;
+}
+
+function escapeHtml(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
+function parseCSV(text) {
+  const lines = text.split(/\r?\n/).filter(l => l.trim() !== '');
+  if (lines.length === 0) return [];
+  // Simple CSV parse that respects double-quoted fields
+  function parseLine(line) {
+    const fields = [];
+    let cur = '', inQ = false;
+    for (let i = 0; i < line.length; i++) {
+      const ch = line[i];
+      if (ch === '"') {
+        if (inQ && line[i+1] === '"') { cur += '"'; i++; }
+        else { inQ = !inQ; }
+      } else if (ch === ',' && !inQ) {
+        fields.push(cur); cur = '';
+      } else {
+        cur += ch;
+      }
+    }
+    fields.push(cur);
+    return fields;
+  }
+  const headers = parseLine(lines[0]);
+  const rows = [];
+  for (let i = 1; i < lines.length; i++) {
+    const vals = parseLine(lines[i]);
+    const obj = {};
+    headers.forEach((h, idx) => { obj[h] = vals[idx] ?? ''; });
+    rows.push(obj);
+  }
+  return rows;
+}
+
+/* ─── Table manager ─────────────────────────────────────────── */
+
+function makeTableManager({ data, bodyId, countId, pagId, columns, renderRow, pageSize = 20 }) {
+  let filtered = data.slice();
+  let sortCol = null;
+  let sortDir = 1; // 1 asc, -1 desc
+  let page = 0;
+
+  const body   = document.getElementById(bodyId);
+  const countEl = document.getElementById(countId);
+  const pagEl  = document.getElementById(pagId);
+
+  function render() {
+    const start = page * pageSize;
+    const slice = filtered.slice(start, start + pageSize);
+    const totalPages = Math.ceil(filtered.length / pageSize);
+
+    // Count
+    countEl.textContent = `${filtered.length} resultado${filtered.length !== 1 ? 's' : ''}`;
+
+    // Rows
+    if (filtered.length === 0) {
+      body.innerHTML = `<tr><td colspan="${columns.length}" class="empty">Nenhum resultado encontrado.</td></tr>`;
+    } else {
+      body.innerHTML = slice.map(renderRow).join('');
+    }
+
+    // Pagination
+    pagEl.innerHTML = '';
+    if (totalPages <= 1) return;
+
+    const prev = document.createElement('button');
+    prev.textContent = '← Anterior';
+    prev.disabled = page === 0;
+    prev.onclick = () => { page--; render(); };
+    pagEl.appendChild(prev);
+
+    const info = document.createElement('span');
+    info.className = 'page-info';
+    info.textContent = `Página ${page + 1} de ${totalPages}`;
+    pagEl.appendChild(info);
+
+    const next = document.createElement('button');
+    next.textContent = 'Próxima →';
+    next.disabled = page >= totalPages - 1;
+    next.onclick = () => { page++; render(); };
+    pagEl.appendChild(next);
+  }
+
+  function applyFilter(q) {
+    const term = q.toLowerCase().trim();
+    if (!term) {
+      filtered = data.slice();
+    } else {
+      filtered = data.filter(row =>
+        columns.some(col => (row[col] || '').toLowerCase().includes(term))
+      );
+    }
+    if (sortCol) applySort(sortCol, false);
+    page = 0;
+    render();
+  }
+
+  function applySort(col, toggle = true) {
+    if (toggle) {
+      if (sortCol === col) sortDir *= -1;
+      else { sortCol = col; sortDir = 1; }
+    }
+    filtered.sort((a, b) => {
+      const va = a[col] || '';
+      const vb = b[col] || '';
+      const na = parseFloat(va), nb = parseFloat(vb);
+      if (!isNaN(na) && !isNaN(nb)) return sortDir * (na - nb);
+      return sortDir * va.localeCompare(vb, 'pt-BR');
+    });
+    // Update header classes
+    const table = body.closest('table');
+    table.querySelectorAll('thead th').forEach(th => {
+      th.classList.remove('sorted-asc', 'sorted-desc');
+      if (th.dataset.col === sortCol) {
+        th.classList.add(sortDir === 1 ? 'sorted-asc' : 'sorted-desc');
+        const icon = th.querySelector('.sort-icon');
+        if (icon) icon.textContent = sortDir === 1 ? ' ↑' : ' ↓';
+      } else {
+        const icon = th.querySelector('.sort-icon');
+        if (icon) icon.textContent = ' ⇅';
+      }
+    });
+    page = 0;
+    render();
+  }
+
+  // Wire up header clicks
+  const table = body.closest('table');
+  table.querySelectorAll('thead th[data-col]').forEach(th => {
+    th.onclick = () => applySort(th.dataset.col);
+  });
+
+  render();
+  return { applyFilter, render };
+}
+
+/* ─── Load data and boot ─────────────────────────────────────── */
+
+async function loadCSV(url) {
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`Failed to load ${url}: ${res.status}`);
+  return parseCSV(await res.text());
+}
+
+let confManager, revManager;
+
+async function boot() {
+  const [confData, revData] = await Promise.all([
+    loadCSV('habemus-qualis-conferencias.csv'),
+    loadCSV('habemus-qualis-revistas.csv'),
+  ]);
+
+  confManager = makeTableManager({
+    data: confData,
+    bodyId: 'body-conf',
+    countId: 'count-conf',
+    pagId: 'pag-conf',
+    columns: ['sigla', 'nome', 'CE', 'top', 'h5', 'edicoes', 'NIVEL'],
+    renderRow: row => `<tr>
+      <td><strong>${escapeHtml(row.sigla)}</strong></td>
+      <td>${escapeHtml(row.nome)}</td>
+      <td><small>${escapeHtml(row.CE)}</small></td>
+      <td><small>${escapeHtml(row.top)}</small></td>
+      <td style="text-align:right">${row.h5 && row.h5 !== 'NA' ? escapeHtml(row.h5) : '—'}</td>
+      <td style="text-align:right">${row.edicoes && row.edicoes !== 'NA' ? escapeHtml(row.edicoes) : '—'}</td>
+      <td>${nivelBadge(row.NIVEL)}</td>
+    </tr>`,
+  });
+
+  revManager = makeTableManager({
+    data: revData,
+    bodyId: 'body-rev',
+    countId: 'count-rev',
+    pagId: 'pag-rev',
+    columns: ['issn', 'name', 'percentil', 'NIVEL'],
+    renderRow: row => `<tr>
+      <td><code>${escapeHtml(row.issn)}</code></td>
+      <td>${escapeHtml(row.name)}</td>
+      <td style="text-align:right">${row.percentil !== undefined ? escapeHtml(row.percentil) + '%' : '—'}</td>
+      <td>${nivelBadge(row.NIVEL)}</td>
+    </tr>`,
+  });
+
+  // Wire search
+  document.getElementById('busca').addEventListener('input', function() {
+    confManager.applyFilter(this.value);
+    revManager.applyFilter(this.value);
+  });
+}
+
+boot().catch(err => {
+  console.error(err);
+  document.getElementById('body-conf').innerHTML =
+    `<tr><td colspan="7" class="empty">Erro ao carregar dados: ${escapeHtml(err.message)}</td></tr>`;
+  document.getElementById('body-rev').innerHTML =
+    `<tr><td colspan="4" class="empty">Erro ao carregar dados: ${escapeHtml(err.message)}</td></tr>`;
+});
+</script>
+</body>
+</html>
