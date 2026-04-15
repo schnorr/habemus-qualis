@@ -1,0 +1,174 @@
+#+title: Habemus Qualis – Classificação de Conferências e Periódicos em Computação
+#+author: Lucas Mello Schnorr
+#+startup: overview indent
+
+* Nota Legal
+
+Este trabalho é uma implementação engajada do algoritmo descrito no
+documento de área da CAPES/Computação para o quadriênio 2025–2028
+([[https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/areas-avaliacao/sobre-as-areas-de-avaliacao/colegio-de-ciencias-exatas-tecnologicas-e-multidisciplinar/ciencias-exatas-e-da-terra/COMPUTACAO_DOCAREA_2025_2028.pdf][COMPUTACAO_DOCAREA_2025_2028.pdf]]).
+Fornecemos os resultados *"no estado em que se encontram"* (*as is*),
+nos termos da licença [[https://www.gnu.org/licenses/gpl-3.0.html][GNU General Public License v3 (GPLv3)]]. *Não nos
+responsabilizamos* por qualquer classificação aqui apresentada. Use
+os resultados como referência, mas consulte sempre as fontes oficiais
+da CAPES para fins de avaliação formal.
+
+* Introdução
+
+O documento de área da CAPES para Computação (quadriênio 2025–2028)
+define que os produtos bibliográficos serão classificados em até 8
+níveis (A1 a A8), com base em:
+
+- *Periódicos*: percentil da Web of Science (WoS) ou Scopus – o maior
+  entre os dois – calculado em intervalos iguais de 12,5%.
+- *Eventos (conferências)*: H5-index do Google Scholar, combinado com
+  análise qualitativa das Comissões Especiais da SBC (CE-SBC) e
+  critérios de tradição (número de edições).
+
+* Fontes de Entrada
+** Planilha SBC – Comissões Especiais (CE-SBC)
+
+- *Arquivo*: =CEs-SBC-Conferências-versão-de-2024.xlsx=
+- *Origem*: Sociedade Brasileira de Computação (SBC), fornecido pelas
+  Comissões Especiais (CEs) e Grupos de Interesse (GIs).
+- *Conteúdo*: Para cada CE/GI, a planilha lista as conferências de
+  interesse com:
+  - Sigla e nome do evento.
+  - Classificação qualitativa: =Top 10=, =Top 20= ou =Eventos da Área=.
+  - H5-index do Google Scholar (quando disponível).
+  - Link para a métrica no Google Scholar Metrics (=gmetric=), do qual
+    o ano da edição consultada é extraído.
+  - Número de edições do evento (para critério de tradição SBC).
+  - Nova sigla (quando o evento passou por renomeação).
+- *Processamento*: As planilhas de cada CE/GI foram lidas
+  individualmente e consolidadas. Quando um mesmo evento aparecia em
+  mais de uma CE, foi adotada a classificação de maior prioridade
+  (Top 10 > Top 20 > Eventos da Área) e, em caso de empate, a edição
+  mais recente.
+
+** Google Scholar H5-index
+
+- *Origem*: Os valores de H5-index foram extraídos diretamente da
+  planilha SBC descrita acima. O H5 de cada conferência refere-se ao
+  h5-index da publicação conforme registrado nas métricas do Google
+  Scholar para a edição indicada pelo link =gmetric=.
+- *Uso*: Primeiro critério de classificação para conferências.
+
+** Web of Science (WoS)
+
+- *Arquivo*: =dados/wos/wos.xlsx=
+- *Origem*: Exportação da base Web of Science com indicadores JIF
+  (Journal Impact Factor) e JIF Rank por categoria.
+- *Processamento*: Para cada ISSN, o campo =jif_rank= (formato
+  =numerador/denominador=) foi convertido em percentil: =(numerador /
+  denominador) × 100=. Quando um mesmo ISSN aparecia em múltiplas
+  categorias, foi mantido o maior percentil.
+
+** Scopus
+
+- *Arquivo de lista*: =dados/scopus/ext_list_Aug_2025.xlsx= (lista
+  oficial de fontes Scopus, agosto de 2025, obtida em
+  [[https://www.scopus.com/sources.uri#][scopus.com/sources]]).
+- *Arquivo de percentis*: =dados/scopus/saida.csv= (gerado via API
+  Elsevier, [[https://dev.elsevier.com/][dev.elsevier.com]], consultando o endpoint serial/title
+  por ISSN e extraindo os campos de rank e percentil por área temática).
+- *Processamento*: Para cada ISSN, foi mantido o maior percentil
+  entre todas as áreas temáticas e anos disponíveis.
+
+* Algoritmo de Mapeamento
+** Conferências
+
+O mapeamento é feito em três etapas sequenciais, implementadas na
+função =define_nivel_evento= do código R de análise:
+
+*** Etapa 1 – H5-index do Google Scholar
+
+O H5-index do evento é mapeado para um nível inicial conforme a
+tabela abaixo:
+
+| H5-index    | Nível |
+|-------------+-------|
+| ≥ 35        | A1    |
+| ≥ 25        | A2    |
+| ≥ 20        | A3    |
+| ≥ 15        | A4    |
+| ≥ 12        | A5    |
+| ≥  9        | A6    |
+| ≥  6        | A7    |
+| > 0         | A8    |
+| sem H5, Top | A7    |
+| sem H5      | A8    |
+
+*** Etapa 2 – Ajuste qualitativo (CE-SBC)
+
+O nível obtido na Etapa 1 pode ser elevado conforme a classificação
+qualitativa da CE-SBC, com *saturação no nível A3* (nenhum evento é
+classificado acima de A3 exclusivamente por critério qualitativo):
+
+| Classificação CE-SBC | Ajuste          |
+|----------------------+-----------------|
+| Top 10               | +2 níveis acima |
+| Top 20               | +1 nível acima  |
+| Eventos da Área      | sem alteração   |
+
+Se o evento já estiver em A1 ou A2, o ajuste não é aplicado.
+
+*** Etapa 3 – Critério de tradição (número de edições SBC)
+
+Como critério de indução para eventos nacionais SBC, o número de
+edições do evento pode elevar o nível final:
+
+| Número de edições | Nível mínimo garantido |
+|-------------------+------------------------|
+| ≥ 20              | A4                     |
+| ≥ 10              | A5                     |
+| < 10              | sem alteração          |
+
+O nível final é o melhor (menor número) entre o obtido nas etapas
+anteriores e o garantido pelo critério de tradição.
+
+** Periódicos
+
+O percentil de cada periódico é calculado como o *maior percentil*
+entre WoS e Scopus. O mapeamento para nível segue a tabela:
+
+| Percentil        | Nível |
+|------------------+-------|
+| ≥ 87,5           | A1    |
+| ≥ 75,0           | A2    |
+| ≥ 62,5           | A3    |
+| ≥ 50,0           | A4    |
+| ≥ 37,5           | A5    |
+| ≥ 25,0           | A6    |
+| ≥ 12,5           | A7    |
+| < 12,5           | A8    |
+
+* Saída
+
+Os resultados da classificação são disponibilizados em dois arquivos CSV:
+
+** [[./docs/habemus-qualis-conferencias.csv][./docs/habemus-qualis-conferencias.csv]]
+
+Colunas:
+- =CE= – Comissão Especial da SBC responsável pela indicação.
+- =sigla= – Sigla do evento.
+- =top= – Classificação qualitativa (=Top 10=, =Top 20=, =Eventos da Área=).
+- =edicoes= – Número de edições do evento.
+- =nome= – Nome completo do evento.
+- =h5= – H5-index do Google Scholar.
+- =NIVEL= – Nível final atribuído (A1 a A8).
+- =sigla2= – Sigla alternativa/normalizada do evento.
+
+** [[./docs/habemus-qualis-revistas.csv][./docs/habemus-qualis-revistas.csv]]
+
+Colunas:
+- =issn= – ISSN do periódico.
+- =percentil= – Maior percentil entre WoS e Scopus.
+- =NIVEL= – Nível final atribuído (A1 a A8).
+- =name= – Nome do periódico.
+
+* Consulta Interativa
+
+Uma interface de consulta interativa (página estática) está disponível
+em [[./docs/index.html][docs/index.html]] e pode ser acessada via GitHub Pages. Ela permite
+pesquisar conferências e periódicos por nome, sigla, ISSN ou nível.
