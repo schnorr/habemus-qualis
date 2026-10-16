@@ -518,7 +518,7 @@ CE-ACPAD,ICPADS,Eventos da Área,NA,International Conference on Parallel and Dis
 CE-ES,ICPC,Eventos da Área,NA,International Conference on Program Comprehension,33,A2,ICPC
 CE-ESC,ICPE,Eventos da Área,NA,International Conference on Performance Engineering,27,A2,ICPE
 CE-CM,ICPME,Eventos da Área,NA,"International Conference on Philosophy, Music and Emotion",NA,A8,ICPME
-CE-ACPAD,ICPP,Top 20,NA,International Conference on Parallel Processing,14,A4,ICPP
+CE-ACPAD,ICPP,Top 20,NA,International Conference on Parallel Processing,24,A3,ICPP
 CE-GRAPI,ICPR,Eventos da Área,NA,International Conference on Pattern Recognition,68,A1,ICPR
 CE-GRAPI,ICPRAM,Eventos da Área,NA,International Conference on Pattern Recognition Applications and Methods,21,A3,ICPRAM
 CE-R,ICRA,Top 10,NA,IEEE International Conference on Robotics and Automation,129,A1,ICRA
@@ -1115,6 +1115,9 @@ NA,IV,NA,NA,International Conference on Information Visualization,15,A4,IV
 NA,NESY,NA,NA,International Workshop on Neural-Symbolic Learning and Reasoning,16,A4,NESY
 NA,WIT,NA,NA,Women in Information Technology,13,A5,WIT
 NA,XAI,NA,NA,World Conference on Explainable Artificial Intelligence,14,A5,XAI
+NA,FAccT,NA,NA,"ACM Conference on Fairness, Accountability, and Transparency",103,A1,FACCT
+NA,ICCSA,NA,NA,International Conference on Computational Science and Its Applications,31,A2,ICCSA
+NA,NLLP,NA,NA,Natural Legal Language Processing Workshop,19,A4,NLLP
 CE-ACPAD,BIGDATA,Eventos da Área,NA,IEEE International Conference on Big Data,55,A1,NA
 CE-ACPAD,CCGRID,Top 10,NA,"IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing",30,A2,NA
 CE-BD,CLOUDCOM,Eventos da Área,NA,IEEE International Conference on Cloud Computing Technology and Science,17,A4,NA
