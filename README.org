@@ -53,10 +53,16 @@ níveis (A1 a A8), com base em:
 
 ** Google Scholar H5-index
 
-- *Origem*: Os valores de H5-index foram extraídos diretamente da
-  planilha SBC descrita acima. O H5 de cada conferência refere-se ao
-  h5-index da publicação conforme registrado nas métricas do Google
-  Scholar para a edição indicada pelo link =gmetric=.
+- *Origem*: Planilha colaborativa mantida pela Comissão de
+  Pós-Graduação do PPGC (dezembro de 2025), exportada para
+  =dados/compg/=. Para cada conferência, a planilha registra o link
+  da conferência no Google Scholar Metrics e o h5-index das edições
+  2022, 2023, 2024 e 2025 das métricas. Os valores ausentes foram
+  coletados automaticamente a partir desse link.
+- *Processamento*: O H5 de cada conferência é o *maior* h5-index
+  entre as edições 2022 a 2025. Esse valor substitui o H5 informado
+  na planilha SBC. O H5 é associado às conferências da planilha SBC
+  pela sigla e pelo nome.
 - *Uso*: Primeiro critério de classificação para conferências.
 
 ** Web of Science (WoS)
