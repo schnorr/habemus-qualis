@@ -65,9 +65,12 @@ níveis (A1 a A8), com base em:
 - *Origem*: Exportação da base Web of Science com indicadores JIF
   (Journal Impact Factor) e JIF Rank por categoria.
 - *Processamento*: Para cada ISSN, o campo =jif_rank= (formato
-  =numerador/denominador=) foi convertido em percentil: =(numerador /
-  denominador) × 100=. Quando um mesmo ISSN aparecia em múltiplas
-  categorias, foi mantido o maior percentil.
+  =numerador/denominador=, onde 1 é a melhor posição) foi convertido
+  em percentil: =100 − (numerador / denominador) × 100=, arredondado
+  para inteiro (por exemplo, a posição 51/258 resulta no percentil
+  80). Quando um mesmo ISSN aparecia em múltiplas categorias, foi
+  mantido o maior percentil. Periódicos somente online, que não têm
+  ISSN impresso na WoS (campo =N/A=), são identificados pelo eISSN.
 
 ** Scopus
 
