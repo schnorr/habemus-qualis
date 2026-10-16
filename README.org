@@ -202,7 +202,8 @@ Colunas:
 - =top= – Classificação qualitativa (=Top 10=, =Top 20=, =Eventos da Área=).
 - =edicoes= – Número de edições do evento.
 - =nome= – Nome completo do evento.
-- =h5= – H5-index do Google Scholar.
+- =h5= – Maior H5-index do Google Scholar entre as edições 2022 a 2025
+  das métricas.
 - =NIVEL= – Nível final atribuído (A1 a A8).
 - =sigla2= – Sigla alternativa/normalizada do evento.
 
