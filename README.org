@@ -192,7 +192,7 @@ Colunas:
 ** [[./docs/habemus-qualis-revistas.csv][./docs/habemus-qualis-revistas.csv]]
 
 Colunas:
-- =issn= – ISSN do periódico.
+- =issn= – ISSN que identifica o periódico (sem hífen).
 - =percentil= – Maior percentil entre WoS e Scopus.
 - =NIVEL= – Nível final atribuído (A1 a A8).
 - =name= – Nome do periódico.
