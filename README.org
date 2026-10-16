@@ -196,4 +196,6 @@ Colunas:
 - =percentil= – Maior percentil entre WoS e Scopus.
 - =NIVEL= – Nível final atribuído (A1 a A8).
 - =name= – Nome do periódico.
+- =issns= – Todos os ISSNs conhecidos do periódico (impresso e
+  eletrônico), separados por espaço.
 

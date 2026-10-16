@@ -339,11 +339,16 @@ function makeTableManager({ data, bodyId, countId, pagId, columns, renderRow, pa
 
   function applyFilter(q) {
     const term = q.toLowerCase().trim();
+    // ISSNs are stored without hyphen; "2666-8270" must match "26668270"
+    const issnTerm = /^[\d\-x]+$/.test(term) ? term.replace(/-/g, '') : term;
     if (!term) {
       filtered = data.slice();
     } else {
       filtered = data.filter(row =>
-        columns.some(col => (row[col] || '').toLowerCase().includes(term))
+        columns.some(col => {
+          const v = (row[col] || '').toLowerCase();
+          return v.includes(term) || v.includes(issnTerm);
+        })
       );
     }
     if (sortCol) applySort(sortCol, false);
@@ -431,13 +436,17 @@ async function boot() {
     bodyId: 'body-rev',
     countId: 'count-rev',
     pagId: 'pag-rev',
-    columns: ['issn', 'name', 'percentil', 'NIVEL'],
-    renderRow: row => `<tr>
-      <td><code>${escapeHtml(row.issn)}</code></td>
+    columns: ['issn', 'issns', 'name', 'percentil', 'NIVEL'],
+    renderRow: row => {
+      const outros = (row.issns || '').split(' ').filter(i => i && i !== row.issn);
+      return `<tr>
+      <td><code>${escapeHtml(row.issn)}</code>${outros.map(i =>
+        `<br><code style="font-size:0.85em;opacity:0.7">${escapeHtml(i)}</code>`).join('')}</td>
       <td>${escapeHtml(row.name)}</td>
       <td style="text-align:right">${row.percentil !== undefined ? escapeHtml(row.percentil) + '%' : '—'}</td>
       <td>${nivelBadge(row.NIVEL)}</td>
-    </tr>`,
+    </tr>`;
+    },
   });
 
   // Wire search
