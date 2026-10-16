@@ -161,6 +161,16 @@ edições do evento pode elevar o nível final:
 O nível final é o melhor (menor número) entre o obtido nas etapas
 anteriores e o garantido pelo critério de tradição.
 
+*** Conferências fora da planilha SBC
+
+Conferências que estão apenas na planilha colaborativa, sem indicação
+de nenhuma CE-SBC, recebem o nível *somente pela Etapa 1* (H5-index),
+pois não têm classificação qualitativa (Top 10/Top 20) nem número de
+edições. Conferências sem H5 (ausente ou zero) e sem indicação de
+CE-SBC não são consideradas pela área e *não* aparecem no resultado.
+No arquivo de saída, essas conferências têm as colunas =CE=, =top= e
+=edicoes= vazias.
+
 ** Periódicos
 
 O percentil de cada periódico é calculado como o *maior percentil*
