@@ -423,8 +423,8 @@ async function boot() {
     renderRow: row => `<tr>
       <td><strong>${escapeHtml(row.sigla)}</strong></td>
       <td>${escapeHtml(row.nome)}</td>
-      <td><small>${escapeHtml(row.CE)}</small></td>
-      <td><small>${escapeHtml(row.top)}</small></td>
+      <td><small>${row.CE && row.CE !== 'NA' ? escapeHtml(row.CE) : '—'}</small></td>
+      <td><small>${row.top && row.top !== 'NA' ? escapeHtml(row.top) : '—'}</small></td>
       <td style="text-align:right">${row.h5 && row.h5 !== 'NA' ? escapeHtml(row.h5) : '—'}</td>
       <td style="text-align:right">${row.edicoes && row.edicoes !== 'NA' ? escapeHtml(row.edicoes) : '—'}</td>
       <td>${nivelBadge(row.NIVEL)}</td>
