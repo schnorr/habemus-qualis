@@ -196,7 +196,8 @@ Os resultados da classificação são disponibilizados em dois arquivos CSV:
 ** [[./docs/habemus-qualis-conferencias.csv][./docs/habemus-qualis-conferencias.csv]]
 
 Colunas:
-- =CE= – Comissão Especial da SBC responsável pela indicação.
+- =CE= – Comissão Especial da SBC responsável pela indicação (vazia
+  para conferências fora da planilha SBC).
 - =sigla= – Sigla do evento.
 - =top= – Classificação qualitativa (=Top 10=, =Top 20=, =Eventos da Área=).
 - =edicoes= – Número de edições do evento.
