@@ -80,8 +80,28 @@ níveis (A1 a A8), com base em:
 - *Arquivo de percentis*: =dados/scopus/saida.csv= (gerado via API
   Elsevier, [[https://dev.elsevier.com/][dev.elsevier.com]], consultando o endpoint serial/title
   por ISSN e extraindo os campos de rank e percentil por área temática).
+- *Seleção*: Apenas fontes do tipo /Journal/ com cobertura até 2020
+  ou depois. Periódicos sem ISSN impresso foram consultados pelo
+  eISSN.
+- *Ano do CiteScore*: A maior parte dos periódicos foi consultada com
+  o CiteScore *2024*. Os periódicos somente online (sem ISSN
+  impresso), incluídos em uma segunda coleta, foram consultados com o
+  CiteScore *2025*. Periódicos sem CiteScore no ano consultado ficam
+  sem percentil Scopus. O ano usado em cada consulta fica registrado
+  em =saida.csv=.
 - *Processamento*: Para cada ISSN, foi mantido o maior percentil
-  entre todas as áreas temáticas e anos disponíveis.
+  entre todas as áreas temáticas.
+
+** Equivalência entre ISSN e eISSN
+
+Um mesmo periódico pode aparecer com o ISSN impresso em uma fonte e
+com o eISSN em outra. Para evitar que ele seja contado como dois
+periódicos distintos (possivelmente com níveis diferentes), os pares
+(ISSN, eISSN) conhecidos pela WoS e pela Scopus são agrupados: todos os
+ISSNs ligados entre si formam um único periódico. Esse periódico é
+identificado pelo menor ISSN impresso do grupo (ou, se não houver
+impresso, pelo menor eISSN), e recebe o maior percentil encontrado
+para qualquer um dos seus ISSNs.
 
 * Algoritmo de Mapeamento
 ** Conferências
@@ -138,7 +158,9 @@ anteriores e o garantido pelo critério de tradição.
 ** Periódicos
 
 O percentil de cada periódico é calculado como o *maior percentil*
-entre WoS e Scopus. O mapeamento para nível segue a tabela:
+entre WoS e Scopus, considerando todos os seus ISSNs (ver
+[[*Equivalência entre ISSN e eISSN][Equivalência entre ISSN e eISSN]]). O mapeamento para nível segue a
+tabela:
 
 | Percentil        | Nível |
 |------------------+-------|
